@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "styles": [
+    {
+      "id": "truyen-thong",
+      "name": {"vi": "Truyền thống"},
+      "claims": [
+        {
+          "key": "usage",
+          "text": "Phong cách ưu tiên cấu trúc, phụ kiện và bối cảnh gần với dữ liệu lịch sử đã được kiểm chứng.",
+          "sourceIds": ["src-vhnghe-thuat-gen-z-co-phuc"],
+          "status": "checked",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "retro",
+      "name": {"vi": "Retro"},
+      "claims": [
+        {
+          "key": "usage",
+          "text": "Phong cách retro tái sử dụng sắc thái và phom dáng gợi quá khứ nhưng không mặc định là phục dựng nguyên bản.",
+          "sourceIds": ["src-vhnghe-thuat-ao-dai-2024"],
+          "status": "draft",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "streetwear",
+      "name": {"vi": "Streetwear"},
+      "claims": [
+        {
+          "key": "usage",
+          "text": "Streetwear là lớp cách tân hiện đại, có thể phối sneaker, túi đeo chéo hoặc kính mát với trang phục Việt nếu ghi rõ đây là sáng tạo đương đại.",
+          "sourceIds": [],
+          "status": "draft",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "thanh-lich",
+      "name": {"vi": "Thanh lịch"},
+      "claims": [
+        {
+          "key": "usage",
+          "text": "Phong cách thanh lịch ưu tiên màu tiết chế, đường nét gọn và phụ kiện vừa phải; phù hợp áo dài, áo ngũ thân hoặc phối dựa trên trang phục lễ.",
+          "sourceIds": ["src-ttxvn-ao-dai"],
+          "status": "draft",
+          "contested": false
+        }
+      ]
+    }
+  ]
+}
