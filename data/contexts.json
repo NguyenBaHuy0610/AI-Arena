@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "contexts": [
+    {
+      "id": "tet",
+      "name": {"vi": "Tết Nguyên đán"},
+      "tip": "Ưu tiên bộ phối trang trọng, màu sáng hoặc ấm; có thể chọn áo dài, áo ngũ thân hoặc áo tứ thân tùy phong cách."
+    },
+    {
+      "id": "tot-nghiep",
+      "name": {"vi": "Lễ tốt nghiệp"},
+      "tip": "Áo dài hiện đại, màu nhã và phụ kiện gọn thường phù hợp hơn trang phục cung đình nặng."
+    },
+    {
+      "id": "ky-yeu",
+      "name": {"vi": "Chụp kỷ yếu"},
+      "tip": "Có thể chọn áo dài, áo tứ thân hoặc cổ phục phục dựng; cần ghi rõ phong cách phục dựng hay cách tân."
+    },
+    {
+      "id": "pho-co",
+      "name": {"vi": "Dạo phố cổ"},
+      "tip": "Ưu tiên trang phục thoải mái và phụ kiện vừa phải; có thể phối cổ phục với giày hiện đại nếu ghi rõ là cách tân."
+    },
+    {
+      "id": "hoi-lang",
+      "name": {"vi": "Hội làng"},
+      "tip": "Áo tứ thân, áo the và phụ kiện Bắc Bộ phù hợp hơn các bộ cung đình Huế nếu bối cảnh là hội làng Bắc Bộ."
+    }
+  ]
+}
