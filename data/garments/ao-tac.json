@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "ao-tac",
+  "name": {
+    "vi": "Áo tấc",
+    "aliases": ["Áo ngũ thân tay thụng", "Áo lễ"]
+  },
+  "category": "viet-phuc-phuc-dung",
+  "regions": ["hue-trung-bo", "viet-phuc"],
+  "period": {
+    "label": "Lễ phục thời Nguyễn; được phục dựng và sử dụng trong các sự kiện văn hóa hiện nay",
+    "from": 1802,
+    "to": 1945
+  },
+  "wearer": "chung",
+  "summary": "Áo tấc là dạng áo ngũ thân tay thụng, thường gắn với lễ phục thời Nguyễn. Tay áo rộng và dáng áo trang trọng khiến kiểu áo này phù hợp với bối cảnh nghi lễ, Tết và phục dựng cung đình.",
+  "claims": [
+    {
+      "key": "origin",
+      "text": "Áo tấc được mô tả là một dạng lễ phục thời Nguyễn, còn gọi là áo ngũ thân tay thụng hoặc áo lễ.",
+      "sourceIds": ["src-vhnghe-thuat-gen-z-co-phuc", "src-elle-ao-tac"],
+      "status": "checked",
+      "contested": false
+    },
+    {
+      "key": "structure",
+      "text": "Đặc điểm nổi bật của áo tấc là thân áo dài và tay áo thụng dài gần bằng gấu áo; áo thường mặc với quần dài và lớp áo trong.",
+      "sourceIds": ["src-vhnghe-thuat-gen-z-co-phuc", "src-baotanglichsu-cung-dinh-nguyen"],
+      "status": "checked",
+      "contested": false
+    },
+    {
+      "key": "usage",
+      "text": "Áo tấc được gắn với các dịp lễ, Tết, cưới hỏi, nghi lễ và những hoàn cảnh cần trang phục trang trọng; mức độ sử dụng thay đổi theo địa vị và thời kỳ.",
+      "sourceIds": ["src-vhnghe-thuat-gen-z-co-phuc", "src-elle-ao-tac"],
+      "status": "checked",
+      "contested": false
+    },
+    {
+      "key": "meaning",
+      "text": "Trong phục dựng hiện nay, áo tấc thường đại diện cho sắc thái lễ nghi và sự trang trọng của trang phục Việt thời Nguyễn.",
+      "sourceIds": ["src-vhnghe-thuat-gen-z-co-phuc"],
+      "status": "checked",
+      "contested": false
+    },
+    {
+      "key": "caution",
+      "text": "Không nên coi mọi áo tay rộng là áo tấc; cần kiểm tra cấu trúc ngũ thân, độ dài tay và bối cảnh phục dựng.",
+      "sourceIds": ["src-baotanglichsu-ao-ngu-than", "src-vhnghe-thuat-gen-z-co-phuc"],
+      "status": "checked",
+      "contested": false
+    }
+  ],
+  "contextFit": {
+    "tet": 2,
+    "tot-nghiep": 0,
+    "ky-yeu": 2,
+    "pho-co": 0,
+    "hoi-lang": 1
+  },
+  "parts": ["ao", "ao-lot", "quan", "khan"],
+  "affinities": {
+    "accessories": {
+      "non-la": -1,
+      "quai-thao": -1,
+      "khan-van": 1,
+      "khan-ran": -1,
+      "tui-deo-cheo": -1,
+      "kinh-mat": -1
+    },
+    "shoes": {
+      "guoc-moc": 1,
+      "sneaker": -1,
+      "giay-da": 0
+    }
+  },
+  "colorNotes": [],
+  "images": [],
+  "avatarSpecId": "ao-tac",
+  "status": "checked",
+  "updated": "2026-10-04"
+}
