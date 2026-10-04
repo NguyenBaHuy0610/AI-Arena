@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "ao-tu-than",
+  "name": {
+    "vi": "Áo tứ thân",
+    "aliases": ["Áo bốn thân"]
+  },
+  "category": "truyen-thong",
+  "regions": ["bac-bo"],
+  "period": {
+    "label": "Phổ biến trong trang phục dân gian Bắc Bộ; niên đại hình thành cần tiếp tục đối chiếu",
+    "from": null,
+    "to": null
+  },
+  "wearer": "nu",
+  "summary": "Áo tứ thân là trang phục nữ dân gian Bắc Bộ, thường gồm bốn thân áo và mặc cùng yếm, váy hoặc quần. Hình ảnh áo thường đi cùng khăn mỏ quạ và nón quai thao trong biểu diễn, lễ hội và phục dựng.",
+  "claims": [
+    {
+      "key": "origin",
+      "text": "Áo tứ thân thuộc nhóm trang phục dân gian Bắc Bộ và thường được đặt trong tiến trình phát triển của các dạng áo cổ Việt Nam.",
+      "sourceIds": ["src-ttxvn-tuan-le-ao-dai", "src-bao-tintuc-ao-dai-2021"],
+      "status": "checked",
+      "contested": false
+    },
+    {
+      "key": "structure",
+      "text": "Tên gọi chỉ cấu trúc bốn thân; phần thân trước thường tạo hai vạt có thể buộc lại, bên trong có thể mặc yếm và phần dưới mặc váy hoặc quần.",
+      "sourceIds": ["src-vtv-400-nam-ao-dai", "src-ttxvn-tuan-le-ao-dai"],
+      "status": "checked",
+      "contested": false
+    },
+    {
+      "key": "usage",
+      "text": "Áo tứ thân thường xuất hiện trong hình ảnh phụ nữ Bắc Bộ, lễ hội dân gian, biểu diễn và hoạt động giới thiệu văn hóa.",
+      "sourceIds": ["src-ttxvn-tuan-le-ao-dai", "src-vhnghe-thuat-thuat-ngu-thoi-trang"],
+      "status": "checked",
+      "contested": false
+    },
+    {
+      "key": "meaning",
+      "text": "Áo tứ thân thường gợi liên tưởng đến đời sống làng quê và văn hóa dân gian Bắc Bộ.",
+      "sourceIds": ["src-ttxvn-tuan-le-ao-dai"],
+      "status": "checked",
+      "contested": false
+    },
+    {
+      "key": "caution",
+      "text": "Hình ảnh áo tứ thân trên sân khấu có thể được rút gọn hoặc phối thêm phụ kiện hiện đại; cần ghi rõ đó là phục dựng hay cách tân.",
+      "sourceIds": ["src-vhnghe-thuat-gen-z-co-phuc"],
+      "status": "checked",
+      "contested": false
+    }
+  ],
+  "contextFit": {
+    "tet": 2,
+    "tot-nghiep": 0,
+    "ky-yeu": 1,
+    "pho-co": 1,
+    "hoi-lang": 2
+  },
+  "parts": ["ao", "yem", "vay", "quan"],
+  "affinities": {
+    "accessories": {
+      "non-la": 0,
+      "quai-thao": 1,
+      "khan-van": 1,
+      "khan-ran": -1,
+      "tui-deo-cheo": 0,
+      "kinh-mat": -1
+    },
+    "shoes": {
+      "guoc-moc": 1,
+      "sneaker": 0,
+      "giay-da": -1
+    }
+  },
+  "colorNotes": [],
+  "images": [],
+  "avatarSpecId": "ao-tu-than",
+  "status": "checked",
+  "updated": "2026-10-04"
+}
