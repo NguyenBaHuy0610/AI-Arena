@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "ao-ba-ba",
+  "name": {
+    "vi": "Áo bà ba",
+    "aliases": []
+  },
+  "category": "truyen-thong",
+  "regions": ["nam-bo"],
+  "period": {
+    "label": "Phổ biến ở Nam Bộ từ thế kỷ XIX đến nay; nguồn gốc cụ thể còn có nhiều cách giải thích",
+    "from": 1800,
+    "to": null
+  },
+  "wearer": "chung",
+  "summary": "Áo bà ba là trang phục gắn với đời sống Nam Bộ, đặc biệt vùng sông nước và nông thôn. Áo thường được nhận diện bằng dáng gọn, tay áo và thân áo thuận tiện cho sinh hoạt.",
+  "claims": [
+    {
+      "key": "origin",
+      "text": "Một cách giải thích phổ biến cho rằng áo bà ba xuất hiện vào nửa đầu thế kỷ XIX và được Trương Vĩnh Ký cải cách từ kiểu áo của người Bà-ba ở Penang.",
+      "sourceIds": ["src-scov-ao-ba-ba-2019", "src-scov-ao-ba-ba-2016"],
+      "status": "checked",
+      "contested": true,
+      "attribution": "Theo cách giải thích được Cổng thông tin văn hóa dẫn lại."
+    },
+    {
+      "key": "origin",
+      "text": "Tên gọi và nguồn gốc áo bà ba vẫn được giải thích theo nhiều hướng; không nên trình bày một giả thuyết duy nhất như kết luận tuyệt đối.",
+      "sourceIds": ["src-scov-ao-ba-ba-2019", "src-tuoitre-ao-ba-ba"],
+      "status": "checked",
+      "contested": true,
+      "attribution": "Các bài viết báo chí và văn hóa ghi nhận nhiều cách giải thích."
+    },
+    {
+      "key": "structure",
+      "text": "Áo bà ba thường có dáng gọn, thân áo và tay áo thuận tiện vận động; kiểu cắt, cổ áo, chất liệu và số túi thay đổi theo vùng, thời kỳ và mục đích sử dụng.",
+      "sourceIds": ["src-scov-ao-ba-ba-2018", "src-scov-ao-ba-ba-2019"],
+      "status": "checked",
+      "contested": false
+    },
+    {
+      "key": "usage",
+      "text": "Áo bà ba được mặc trong lao động, sinh hoạt thường ngày, biểu diễn văn hóa và cả những dịp trang trọng khi dùng chất liệu tốt hơn.",
+      "sourceIds": ["src-scov-ao-ba-ba-2018", "src-scov-ao-ba-ba-2019"],
+      "status": "checked",
+      "contested": false
+    },
+    {
+      "key": "meaning",
+      "text": "Áo bà ba thường gợi hình ảnh mộc mạc, linh hoạt và gần gũi với đời sống Nam Bộ.",
+      "sourceIds": ["src-scov-ao-ba-ba-2018"],
+      "status": "checked",
+      "contested": false
+    },
+    {
+      "key": "caution",
+      "text": "Không nên dùng áo bà ba như đại diện duy nhất cho toàn bộ trang phục Nam Bộ; đây là một biểu tượng phổ biến nhưng không bao quát mọi cộng đồng và thời kỳ.",
+      "sourceIds": ["src-scov-ao-ba-ba-2018", "src-scov-ao-ba-ba-2019"],
+      "status": "checked",
+      "contested": false
+    }
+  ],
+  "contextFit": {
+    "tet": 2,
+    "tot-nghiep": 0,
+    "ky-yeu": 1,
+    "pho-co": 2,
+    "hoi-lang": 1
+  },
+  "parts": ["ao", "quan"],
+  "affinities": {
+    "accessories": {
+      "non-la": 1,
+      "quai-thao": -1,
+      "khan-van": -1,
+      "khan-ran": 1,
+      "tui-deo-cheo": 1,
+      "kinh-mat": 0
+    },
+    "shoes": {
+      "guoc-moc": 1,
+      "sneaker": 1,
+      "giay-da": 0
+    }
+  },
+  "colorNotes": [
+    {
+      "key": "usage",
+      "text": "Màu tối và vải bền thường được nhắc đến trong bối cảnh lao động; chất liệu lụa và màu sắc khác có thể dùng trong dịp trang trọng.",
+      "sourceIds": ["src-scov-ao-ba-ba-2019", "src-scov-ao-ba-ba-2018"],
+      "status": "checked",
+      "contested": false
+    }
+  ],
+  "images": [],
+  "avatarSpecId": "ao-ba-ba",
+  "status": "checked",
+  "updated": "2026-10-04"
+}
