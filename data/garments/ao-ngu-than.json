@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "ao-ngu-than",
+  "name": {
+    "vi": "Áo ngũ thân",
+    "aliases": ["Áo năm thân", "Áo dài ngũ thân"]
+  },
+  "category": "viet-phuc-phuc-dung",
+  "regions": ["hue-trung-bo", "viet-phuc"],
+  "period": {
+    "label": "Thế kỷ XVIII đến thời Nguyễn và các hình thức phục dựng hiện nay",
+    "from": 1700,
+    "to": 1945
+  },
+  "wearer": "chung",
+  "summary": "Áo ngũ thân là dạng áo năm thân gắn với quá trình chuẩn hóa y phục thời chúa Nguyễn và nhà Nguyễn. Kiểu áo này là tiền thân quan trọng của áo dài hiện đại.",
+  "claims": [
+    {
+      "key": "origin",
+      "text": "Nhiều tài liệu gắn quá trình định chế áo ngũ thân với thời chúa Nguyễn Phúc Khoát ở Đàng Trong; mốc và cách diễn giải cụ thể vẫn cần trình bày thận trọng.",
+      "sourceIds": ["src-vhnghe-thuat-nhan-dien-ao-dai", "src-vhnghe-thuat-quoc-phuc"],
+      "status": "checked",
+      "contested": true,
+      "attribution": "Các nguồn không hoàn toàn thống nhất về vai trò và mốc cụ thể của chúa Nguyễn Phúc Khoát."
+    },
+    {
+      "key": "structure",
+      "text": "Áo ngũ thân có năm thân, thường gồm bốn thân ngoài và một thân con ẩn bên trong vạt trước; áo truyền thống thường có cổ đứng và khuy cài.",
+      "sourceIds": ["src-baotintuc-ao-dai-2020", "src-baotanglichsu-ao-ngu-than"],
+      "status": "checked",
+      "contested": false
+    },
+    {
+      "key": "usage",
+      "text": "Áo ngũ thân từng được dùng bởi cả nam và nữ, trong nhiều tầng lớp xã hội; các mẫu phục dựng hiện nay thường xuất hiện trong lễ hội và hoạt động giáo dục văn hóa.",
+      "sourceIds": ["src-vhnghe-thuat-nhan-dien-ao-dai", "src-baotanglichsu-ao-ngu-than"],
+      "status": "checked",
+      "contested": false
+    },
+    {
+      "key": "meaning",
+      "text": "Một số cách giải thích hiện nay gắn năm thân với bản thân và tứ thân phụ mẫu; đây là cách diễn giải biểu tượng, không nên trình bày như bằng chứng duy nhất về nguồn gốc.",
+      "sourceIds": ["src-baotintuc-ao-dai-2021", "src-baotintuc-ao-dai-2020"],
+      "status": "checked",
+      "contested": true,
+      "attribution": "Cách hiểu biểu tượng trong các bài viết phổ biến về áo ngũ thân."
+    },
+    {
+      "key": "caution",
+      "text": "Áo ngũ thân tay chẽn khác áo tấc tay thụng; khi dựng nhân vật cần tách hai kiểu thông số tay áo.",
+      "sourceIds": ["src-baotanglichsu-ao-ngu-than"],
+      "status": "checked",
+      "contested": false
+    }
+  ],
+  "contextFit": {
+    "tet": 2,
+    "tot-nghiep": 1,
+    "ky-yeu": 2,
+    "pho-co": 1,
+    "hoi-lang": 1
+  },
+  "parts": ["ao", "quan", "khan"],
+  "affinities": {
+    "accessories": {
+      "non-la": 1,
+      "quai-thao": -1,
+      "khan-van": 1,
+      "khan-ran": -1,
+      "tui-deo-cheo": 0,
+      "kinh-mat": -1
+    },
+    "shoes": {
+      "guoc-moc": 1,
+      "sneaker": 0,
+      "giay-da": 0
+    }
+  },
+  "colorNotes": [],
+  "images": [],
+  "avatarSpecId": "ao-ngu-than",
+  "status": "checked",
+  "updated": "2026-10-04"
+}
