@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "regions": [
+    {
+      "id": "bac-bo",
+      "name": {"vi": "Bắc Bộ"},
+      "garments": ["ao-tu-than", "ao-the", "ao-mo-ba-mo-bay"],
+      "claims": [
+        {
+          "key": "usage",
+          "text": "Áo tứ thân và áo the thường được dùng để nhận diện các hình ảnh trang phục dân gian Bắc Bộ; mức độ phổ biến cụ thể thay đổi theo địa phương và thời kỳ.",
+          "sourceIds": ["src-ttxvn-tuan-le-ao-dai", "src-vhnghe-thuat-thuat-ngu-thoi-trang"],
+          "status": "checked",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "hue-trung-bo",
+      "name": {"vi": "Huế và Trung Bộ"},
+      "garments": ["ao-ngu-than", "ao-nhat-binh", "ao-tac", "ao-giao-linh"],
+      "claims": [
+        {
+          "key": "usage",
+          "text": "Huế gắn với nhiều tư liệu và phục dựng về trang phục triều Nguyễn, trong đó có áo ngũ thân, áo nhật bình và áo tấc.",
+          "sourceIds": ["src-baotanglichsu-cung-dinh-nguyen", "src-baotanglichsu-ao-ngu-than"],
+          "status": "checked",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "nam-bo",
+      "name": {"vi": "Nam Bộ"},
+      "garments": ["ao-ba-ba"],
+      "claims": [
+        {
+          "key": "usage",
+          "text": "Áo bà ba, khăn rằn và nón lá thường được dùng để nhận diện một phần đời sống và trang phục Nam Bộ.",
+          "sourceIds": ["src-scov-ao-ba-ba-2019", "src-scov-ao-ba-ba-2018"],
+          "status": "checked",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "viet-phuc",
+      "name": {"vi": "Việt phục liên vùng"},
+      "garments": ["ao-dai", "ao-ngu-than", "ao-giao-linh", "ao-nhat-binh", "ao-tac"],
+      "claims": [
+        {
+          "key": "caution",
+          "text": "Mã vùng này dùng cho trang phục có lịch sử, quá trình phục dựng hoặc ảnh hưởng vượt ra ngoài một vùng hiện đại duy nhất.",
+          "sourceIds": ["src-vhnghe-thuat-gen-z-co-phuc", "src-ttxvn-ao-dai"],
+          "status": "checked",
+          "contested": false
+        }
+      ]
+    }
+  ]
+}
