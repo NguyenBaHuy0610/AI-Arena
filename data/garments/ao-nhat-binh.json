@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "ao-nhat-binh",
+  "name": {
+    "vi": "Áo nhật bình",
+    "aliases": []
+  },
+  "category": "viet-phuc-phuc-dung",
+  "regions": ["hue-trung-bo", "viet-phuc"],
+  "period": {
+    "label": "Triều Nguyễn, chủ yếu thế kỷ XIX đến đầu thế kỷ XX",
+    "from": 1802,
+    "to": 1945
+  },
+  "wearer": "nu",
+  "summary": "Áo nhật bình là trang phục cung đình triều Nguyễn, nổi bật với cổ áo hình chữ nhật và hai vạt buộc lại. Trong ứng dụng, đây là lựa chọn cho bối cảnh hoàng gia, lễ nghi và phục dựng cung đình.",
+  "claims": [
+    {
+      "key": "origin",
+      "text": "Áo nhật bình thuộc hệ thống phục trang cung đình triều Nguyễn và được dùng cho phụ nữ hoàng tộc theo cấp bậc, dịp và quy chế.",
+      "sourceIds": ["src-baotanglichsu-cung-dinh-nguyen", "src-vhnghe-thuat-gen-z-co-phuc"],
+      "status": "checked",
+      "contested": false
+    },
+    {
+      "key": "structure",
+      "text": "Đặc điểm nhận diện là cổ áo bản rộng tạo hình chữ nhật phía trước khi hai vạt giao lại; hai vạt thường được buộc bằng dây.",
+      "sourceIds": ["src-vhnghe-thuat-gen-z-co-phuc", "src-baotanglichsu-nhat-binh"],
+      "status": "checked",
+      "contested": false
+    },
+    {
+      "key": "usage",
+      "text": "Áo nhật bình được gắn với hoàng hậu, phi tần, công chúa hoặc phụ nữ hoàng tộc trong những bối cảnh nghi lễ và trang trọng.",
+      "sourceIds": ["src-baotanglichsu-cung-dinh-nguyen", "src-vhnghe-thuat-gen-z-co-phuc"],
+      "status": "checked",
+      "contested": false
+    },
+    {
+      "key": "meaning",
+      "text": "Tên gọi Nhật Bình thường được giải thích từ hình dạng hoa văn ở phần cổ áo khi hai vạt ghép lại thành hình chữ nhật.",
+      "sourceIds": ["src-vhnghe-thuat-gen-z-co-phuc"],
+      "status": "checked",
+      "contested": false
+    },
+    {
+      "key": "caution",
+      "text": "Áo nhật bình là trang phục cung đình; bản phục dựng dùng trong chụp ảnh hoặc biểu diễn cần ghi rõ cấp độ phục dựng và không nên mặc định là nguyên mẫu hoàng gia.",
+      "sourceIds": ["src-baotanglichsu-cung-dinh-nguyen", "src-vhnghe-thuat-gen-z-co-phuc"],
+      "status": "checked",
+      "contested": false
+    }
+  ],
+  "contextFit": {
+    "tet": 1,
+    "tot-nghiep": 0,
+    "ky-yeu": 2,
+    "pho-co": 0,
+    "hoi-lang": 0
+  },
+  "parts": ["ao", "quan", "khan"],
+  "affinities": {
+    "accessories": {
+      "non-la": -1,
+      "quai-thao": -1,
+      "khan-van": 1,
+      "khan-ran": -1,
+      "tui-deo-cheo": -1,
+      "kinh-mat": -1
+    },
+    "shoes": {
+      "guoc-moc": 1,
+      "sneaker": -1,
+      "giay-da": 0
+    }
+  },
+  "colorNotes": [],
+  "images": [],
+  "avatarSpecId": "ao-nhat-binh",
+  "status": "checked",
+  "updated": "2026-10-04"
+}
