@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "ao-giao-linh",
+  "name": {
+    "vi": "Áo giao lĩnh",
+    "aliases": ["Áo giao lãnh", "Áo tràng vạt", "Áo tràng xiên"]
+  },
+  "category": "viet-phuc-phuc-dung",
+  "regions": ["viet-phuc", "bac-bo", "hue-trung-bo"],
+  "period": {
+    "label": "Dạng áo cổ chéo xuất hiện trong các giai đoạn trước thế kỷ XIX; niên đại cụ thể còn cần đối chiếu hiện vật",
+    "from": null,
+    "to": 1800
+  },
+  "wearer": "chung",
+  "summary": "Áo giao lĩnh là dạng áo có hai vạt giao nhau ở trước ngực, thường được gọi là áo tràng vạt hoặc áo tràng xiên. Đây là một dạng cổ phục được phục dựng trong nghiên cứu và thiết kế hiện nay.",
+  "claims": [
+    {
+      "key": "origin",
+      "text": "Áo giao lĩnh thuộc nhóm áo trực lĩnh hoặc áo cổ chéo trong lịch sử trang phục Việt; các tài liệu phổ biến đặt kiểu áo này trước thế kỷ XIX.",
+      "sourceIds": ["src-bao-tintuc-ao-dai-2021", "src-giao-linh-wikipedia"],
+      "status": "checked",
+      "contested": true,
+      "attribution": "Mốc xuất hiện và quan hệ với từng triều đại chưa được các nguồn phổ biến trình bày thống nhất."
+    },
+    {
+      "key": "structure",
+      "text": "Đặc điểm nhận diện là hai vạt giao nhau ở trước ngực, thường có vạt trái phủ sang bên phải theo mô tả phổ biến về áo giao lĩnh.",
+      "sourceIds": ["src-giao-linh-wikipedia", "src-ao-giao-linh-wikipedia-en"],
+      "status": "checked",
+      "contested": false
+    },
+    {
+      "key": "usage",
+      "text": "Áo giao lĩnh hiện được dùng chủ yếu trong phục dựng, trình diễn, giáo dục lịch sử và chụp ảnh cổ phục; dữ liệu về tầng lớp và dịp mặc theo từng thời kỳ cần tiếp tục bổ sung.",
+      "sourceIds": ["src-vhnghe-thuat-gen-z-co-phuc", "src-bao-tintuc-ao-dai-2019"],
+      "status": "draft",
+      "contested": false
+    },
+    {
+      "key": "meaning",
+      "text": "Trong ứng dụng, áo giao lĩnh nên được giới thiệu như một dạng áo cổ phục cần đặt trong bối cảnh lịch sử, tránh coi một mẫu phục dựng hiện đại là bản sao chắc chắn của mọi thời kỳ.",
+      "sourceIds": ["src-vhnghe-thuat-gen-z-co-phuc"],
+      "status": "checked",
+      "contested": false
+    },
+    {
+      "key": "caution",
+      "text": "Không nên tự động gán mọi áo cổ chéo trong tranh hoặc ảnh hiện đại là cùng một kiểu áo giao lĩnh lịch sử.",
+      "sourceIds": ["src-giao-linh-wikipedia", "src-ao-giao-linh-wikipedia-en"],
+      "status": "draft",
+      "contested": false
+    }
+  ],
+  "contextFit": {
+    "tet": 1,
+    "tot-nghiep": 0,
+    "ky-yeu": 2,
+    "pho-co": 1,
+    "hoi-lang": 1
+  },
+  "parts": ["ao", "quan"],
+  "affinities": {
+    "accessories": {
+      "non-la": 0,
+      "quai-thao": -1,
+      "khan-van": 1,
+      "khan-ran": -1,
+      "tui-deo-cheo": 0,
+      "kinh-mat": -1
+    },
+    "shoes": {
+      "guoc-moc": 1,
+      "sneaker": 0,
+      "giay-da": 0
+    }
+  },
+  "colorNotes": [],
+  "images": [],
+  "avatarSpecId": "ao-giao-linh",
+  "status": "draft",
+  "updated": "2026-10-04"
+}
