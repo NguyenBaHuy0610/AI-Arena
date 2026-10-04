@@ -1,0 +1,235 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "id": "src-hcmussh-ao-dai",
+      "title": "Áo dài của phụ nữ Việt - quá trình biến đổi",
+      "publisher": "Trường Đại học Khoa học Xã hội và Nhân văn, ĐHQG TP.HCM",
+      "url": "https://hcmussh.edu.vn/static/document/13110.pdf",
+      "accessed": "2026-10-04",
+      "type": "nghien-cuu",
+      "reliability": "A",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-ttxvn-ao-dai",
+      "title": "Áo dài - Di sản văn hóa Việt",
+      "publisher": "Báo Tin tức, Thông tấn xã Việt Nam",
+      "url": "https://baotintuc.vn/van-hoa/ao-dai-di-san-van-hoa-viet-bai-2-niem-tu-hao-cua-nguoi-viet-nam-20210212073246337.htm",
+      "accessed": "2026-10-04",
+      "type": "bao-chi",
+      "reliability": "B",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-bao-tintuc-ao-dai-2021",
+      "title": "Áo dài - Di sản văn hóa Việt",
+      "publisher": "Báo Tin tức",
+      "url": "https://baotintuc.vn/ao-dai-di-san-van-hoa-viet-bai-2-niem-tu-hao-cua-nguoi-viet-nam-post893090.html",
+      "accessed": "2026-10-04",
+      "type": "bao-chi",
+      "reliability": "B",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-bao-tintuc-ao-dai-2020",
+      "title": "Áo dài - tâm hồn Việt, văn hóa Việt",
+      "publisher": "Báo Tin tức",
+      "url": "https://baotintuc.vn/ao-dai-tam-hon-viet-post396456.html",
+      "accessed": "2026-10-04",
+      "type": "bao-chi",
+      "reliability": "B",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-ttxvn-tuan-le-ao-dai",
+      "title": "Tuần lễ áo dài 2024: Áo dài - niềm tự hào văn hóa Việt",
+      "publisher": "Thông tấn xã Việt Nam",
+      "url": "https://nvsk.vnanet.vn/tuan-le-ao-dai-2024-ao-dai-niem-tu-hao-van-hoa-viet-1-150550.vna",
+      "accessed": "2026-10-04",
+      "type": "bao-chi",
+      "reliability": "B",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-vtv-400-nam-ao-dai",
+      "title": "Ngắm nhìn những tà áo dài phụ nữ Việt Nam trong 400 năm qua",
+      "publisher": "VTV",
+      "url": "https://vtv.vn/xa-hoi/ngam-nhin-nhung-ta-ao-dai-phu-nu-viet-nam-trong-400-nam-qua-20201019235304392.htm",
+      "accessed": "2026-10-04",
+      "type": "bao-chi",
+      "reliability": "B",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-bao-tang-ao-dai",
+      "title": "Bảo tàng Áo dài Việt Nam",
+      "publisher": "Bảo tàng Lịch sử Quốc gia",
+      "url": "https://baotanglichsu.vn/vi/Articles/3096/17279/bao-tang-ao-dai-viet-nam-khong-gian-djoc-djao-giua-tp-hcm.html",
+      "accessed": "2026-10-04",
+      "type": "hien-vat",
+      "reliability": "A",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-scov-ao-ba-ba-2019",
+      "title": "Áo bà ba, khăn rằn, nón lá: Bộ ba bất ly thân của người phụ nữ Nam Bộ",
+      "publisher": "Cổng thông tin văn hóa",
+      "url": "https://scov.gov.vn/ban-sac-van-hoa/ao-ba-ba-khan-ran-non-la-bo-ba-bat-ly-than-cua-nguoi-phu-nu-nam-bo.html",
+      "accessed": "2026-10-04",
+      "type": "cong-dong",
+      "reliability": "B",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-scov-ao-ba-ba-2018",
+      "title": "Thương quá áo bà ba",
+      "publisher": "Cổng thông tin văn hóa",
+      "url": "https://scov.gov.vn/van-hoc-nghe-thuat/thuong-qua-ao-ba-ba.html",
+      "accessed": "2026-10-04",
+      "type": "cong-dong",
+      "reliability": "B",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-scov-ao-ba-ba-2016",
+      "title": "Áo bà ba - Trang phục của phụ nữ Nam Bộ",
+      "publisher": "Cổng thông tin văn hóa",
+      "url": "https://scov.gov.vn/ban-sac-van-hoa/huong-vi-que-nha/ao-ba-ba-trang-phuc-cua-phu-nu-nam-bo.html",
+      "accessed": "2026-10-04",
+      "type": "cong-dong",
+      "reliability": "B",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-tuoitre-ao-ba-ba",
+      "title": "Khám phá áo bà ba - biểu tượng văn hóa miền Tây",
+      "publisher": "Tuổi Trẻ",
+      "url": "https://tuoitre.vn/chiec-ao-ba-ba-moi-ba-tu-ba-nam-cu-lay-mac-10026091012130124.htm",
+      "accessed": "2026-10-04",
+      "type": "bao-chi",
+      "reliability": "B",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-baotanglichsu-ao-ngu-than",
+      "title": "Bảo tàng Lịch sử quốc gia tiếp nhận áo dài ngũ thân truyền thống",
+      "publisher": "Bảo tàng Lịch sử Quốc gia",
+      "url": "https://baotanglichsu.vn/vi/Articles/3090/72685/bao-tang-lich-su-quoc-gia-tiep-nhan-ao-dai-ngu-than-truyen-thong.html",
+      "accessed": "2026-10-04",
+      "type": "hien-vat",
+      "reliability": "A",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-baotanglichsu-cung-dinh-nguyen",
+      "title": "Trang phục cung đình triều Nguyễn",
+      "publisher": "Bảo tàng Lịch sử Quốc gia",
+      "url": "https://baotanglichsu.vn/vi/Articles/3096/18303/trangphuc-cung-djinh-trieu-nguyen.html",
+      "accessed": "2026-10-04",
+      "type": "hien-vat",
+      "reliability": "A",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-baotanglichsu-nhat-binh",
+      "title": "Trưng bày cổ vật mũ quan triều Nguyễn phục vụ người dân tham quan",
+      "publisher": "Bảo tàng Lịch sử Quốc gia",
+      "url": "https://baotanglichsu.vn/vi/Articles/3091/73042/trung-bay-co-vat-mu-quan-trieu-nguyen-phuc-vu-nguoi-dan-tham-quan-mien-phi.html",
+      "accessed": "2026-10-04",
+      "type": "hien-vat",
+      "reliability": "A",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-vhnghe-thuat-nhan-dien-ao-dai",
+      "title": "Nhận diện và phát huy giá trị áo dài truyền thống",
+      "publisher": "Tạp chí Văn hóa Nghệ thuật",
+      "url": "https://vanhoanghethuat.vn/nhan-dien-va-phat-huy-gia-tri-ao-dai-truyen-thong-trong-boi-canh-hoi-nhap-bai-1-gia-tri-tham-m-va-ban-sac-van-hoa-cua-trang-phuc-ao-dai-77753129.html",
+      "accessed": "2026-10-04",
+      "type": "nghien-cuu",
+      "reliability": "A",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-vhnghe-thuat-quoc-phuc",
+      "title": "Nhận diện Quốc phục Việt Nam",
+      "publisher": "Tạp chí Văn hóa Nghệ thuật",
+      "url": "https://vanhoanghethuat.vn/nhan-dien-quoc-phuc-viet-nam-77757331.html",
+      "accessed": "2026-10-04",
+      "type": "nghien-cuu",
+      "reliability": "A",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-vhnghe-thuat-gen-z-co-phuc",
+      "title": "Gen Z và trào lưu phục dựng cổ phục Việt",
+      "publisher": "Tạp chí Văn hóa Nghệ thuật",
+      "url": "https://vanhoanghethuat.vn/gen-z-va-trao-luu-phuc-dung-co-phuc-viet-tuong-lai-noi-dai-qua-khu-77755196.html",
+      "accessed": "2026-10-04",
+      "type": "bao-chi",
+      "reliability": "B",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-vhnghe-thuat-ao-dai-2023",
+      "title": "Văn hóa áo dài - giáo dục giá trị truyền thống cho thế hệ trẻ",
+      "publisher": "Tạp chí Văn hóa Nghệ thuật",
+      "url": "https://vanhoanghethuat.vn/van-hoa-ao-dai-giao-duc-gia-tri-truyen-thong-cho-the-he-tre-77755222.html",
+      "accessed": "2026-10-04",
+      "type": "nghien-cuu",
+      "reliability": "A",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-vhnghe-thuat-ao-dai-2024",
+      "title": "Chất truyền thống trong thiết kế áo dài Việt Nam hiện đại",
+      "publisher": "Tạp chí Văn hóa Nghệ thuật",
+      "url": "https://vanhoanghethuat.vn/chat-truyen-thong-trong-thiet-ke-ao-dai-viet-nam-hien-dai-77756570.html",
+      "accessed": "2026-10-04",
+      "type": "nghien-cuu",
+      "reliability": "A",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-vhnghe-thuat-thuat-ngu-thoi-trang",
+      "title": "Lịch sử phát triển của thuật ngữ thời trang",
+      "publisher": "Tạp chí Văn hóa Nghệ thuật",
+      "url": "https://vanhoanghethuat.vn/lich-su-phat-trien-cua-thuat-ngu-thoi-trang-77749198.html",
+      "accessed": "2026-10-04",
+      "type": "nghien-cuu",
+      "reliability": "A",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-elle-ao-tac",
+      "title": "5 thiết kế phục trang truyền thống đáng đầu tư",
+      "publisher": "ELLE Việt Nam",
+      "url": "https://www.elle.vn/fashion/trang-phuc-truyen-thong-dang-dau-tu-dip-1-1-2026/",
+      "accessed": "2026-10-04",
+      "type": "bao-chi",
+      "reliability": "B",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-giao-linh-wikipedia",
+      "title": "Giao lĩnh",
+      "publisher": "Wikipedia tiếng Việt",
+      "url": "https://vi.wikipedia.org/wiki/Giao_l%C4%A9nh",
+      "accessed": "2026-10-04",
+      "type": "khac",
+      "reliability": "C",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-ao-giao-linh-wikipedia-en",
+      "title": "Áo giao lĩnh",
+      "publisher": "Wikipedia tiếng Anh",
+      "url": "https://en.wikipedia.org/wiki/%C3%81o_giao_l%C4%A9nh",
+      "accessed": "2026-10-04",
+      "type": "khac",
+      "reliability": "C",
+      "license": "chi-trich-dan"
+    }
+  ]
+}
