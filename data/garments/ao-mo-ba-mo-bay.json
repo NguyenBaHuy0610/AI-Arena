@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "ao-mo-ba-mo-bay",
+  "name": {
+    "vi": "Áo mớ ba mớ bảy",
+    "aliases": ["Áo nhiều lớp"]
+  },
+  "category": "truyen-thong",
+  "regions": ["bac-bo"],
+  "period": {
+    "label": "Tên gọi cần xác minh thêm trong tư liệu trang phục Bắc Bộ",
+    "from": null,
+    "to": null
+  },
+  "wearer": "nu",
+  "summary": "Áo mớ ba mớ bảy là mã trang phục được nhóm quy định để nghiên cứu riêng. Dữ liệu lịch sử, cấu tạo và quan hệ với áo tứ thân hiện chưa đủ nguồn để hiển thị như thông tin đã xác nhận.",
+  "claims": [
+    {
+      "key": "origin",
+      "text": "Nguồn gốc và niên đại của tên gọi áo mớ ba mớ bảy chưa được xác minh trong các nguồn đã thu thập.",
+      "sourceIds": [],
+      "status": "draft",
+      "contested": false,
+      "note": "Cần tìm trong sách dân tộc học, hồ sơ bảo tàng và nghiên cứu về y phục Bắc Bộ."
+    },
+    {
+      "key": "structure",
+      "text": "Chưa xác minh được số lớp, cách mặc, chất liệu và quan hệ cấu tạo với áo tứ thân hoặc các dạng áo dân gian khác.",
+      "sourceIds": [],
+      "status": "draft",
+      "contested": false
+    },
+    {
+      "key": "usage",
+      "text": "Chưa xác minh được tầng lớp, vùng cụ thể và dịp mặc của áo mớ ba mớ bảy.",
+      "sourceIds": [],
+      "status": "draft",
+      "contested": false
+    },
+    {
+      "key": "meaning",
+      "text": "Chưa có đủ nguồn để mô tả ý nghĩa văn hóa của áo mớ ba mớ bảy.",
+      "sourceIds": [],
+      "status": "draft",
+      "contested": false
+    },
+    {
+      "key": "caution",
+      "text": "Không đưa áo mớ ba mớ bảy vào phần kiến thức hiển thị cho đến khi có ít nhất một nguồn A hoặc hai nguồn B độc lập.",
+      "sourceIds": [],
+      "status": "draft",
+      "contested": false,
+      "note": "Đây là mục bắt buộc trong danh sách mã chuẩn nhưng đang thiếu dữ liệu."
+    }
+  ],
+  "contextFit": {
+    "tet": 0,
+    "tot-nghiep": 0,
+    "ky-yeu": 0,
+    "pho-co": 0,
+    "hoi-lang": 0
+  },
+  "parts": [],
+  "affinities": {
+    "accessories": {},
+    "shoes": {}
+  },
+  "colorNotes": [],
+  "images": [],
+  "avatarSpecId": "ao-mo-ba-mo-bay",
+  "status": "draft",
+  "updated": "2026-10-04"
+}
