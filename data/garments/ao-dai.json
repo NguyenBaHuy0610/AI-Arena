@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "ao-dai",
+  "name": {
+    "vi": "Áo dài",
+    "aliases": ["Áo dài Việt Nam", "Áo dài cách tân"]
+  },
+  "category": "cach-tan",
+  "regions": ["viet-phuc", "hue-trung-bo", "nam-bo"],
+  "period": {
+    "label": "Quá trình định hình từ thế kỷ XVIII; biến đổi mạnh trong thế kỷ XX đến nay",
+    "from": 1700,
+    "to": null
+  },
+  "wearer": "chung",
+  "summary": "Áo dài là trang phục biểu tượng của Việt Nam, thường có thân dài, cổ áo và tà xẻ hai bên. Dáng áo hiện đại phát triển qua nhiều giai đoạn từ các dạng áo giao lĩnh, tứ thân và ngũ thân.",
+  "claims": [
+    {
+      "key": "origin",
+      "text": "Nguồn gốc chính xác của áo dài chưa được xác định hoàn toàn; nhiều tài liệu đặt quá trình định hình của áo dài trong mối liên hệ với áo ngũ thân và các dạng áo cổ trước đó.",
+      "sourceIds": ["src-hcmussh-ao-dai", "src-vhnghe-thuat-ao-dai-2023"],
+      "status": "checked",
+      "contested": true,
+      "attribution": "Các nghiên cứu và bài viết lịch sử trang phục đưa ra cách diễn giải khác nhau."
+    },
+    {
+      "key": "structure",
+      "text": "Áo dài hiện đại thường có thân áo dài, cổ áo hoặc biến thể cổ, tay áo và hai tà xẻ; kiểu cắt, chất liệu và độ ôm thay đổi theo thời kỳ.",
+      "sourceIds": ["src-ttxvn-ao-dai", "src-vtv-400-nam-ao-dai"],
+      "status": "checked",
+      "contested": false
+    },
+    {
+      "key": "usage",
+      "text": "Áo dài được sử dụng trong học đường, lễ hội, cưới hỏi, nghi lễ và đời sống đương đại trên nhiều vùng của Việt Nam.",
+      "sourceIds": ["src-ttxvn-tuan-le-ao-dai", "src-bao-tang-ao-dai"],
+      "status": "checked",
+      "contested": false
+    },
+    {
+      "key": "meaning",
+      "text": "Trong đời sống hiện đại, áo dài thường được xem là biểu tượng văn hóa và một hình thức thể hiện bản sắc Việt.",
+      "sourceIds": ["src-ttxvn-ao-dai", "src-vhnghe-thuat-ban-sac-ao-dai"],
+      "status": "checked",
+      "contested": false
+    },
+    {
+      "key": "caution",
+      "text": "Không nên đồng nhất mọi kiểu áo dài hiện đại với áo ngũ thân lịch sử; khi phục dựng cần ghi rõ đó là truyền thống, phục dựng hay cách tân.",
+      "sourceIds": ["src-hcmussh-ao-dai", "src-vhnghe-thuat-ao-dai-2024"],
+      "status": "checked",
+      "contested": false
+    }
+  ],
+  "contextFit": {
+    "tet": 2,
+    "tot-nghiep": 2,
+    "ky-yeu": 2,
+    "pho-co": 1,
+    "hoi-lang": 1
+  },
+  "parts": ["ao", "quan"],
+  "affinities": {
+    "accessories": {
+      "non-la": 1,
+      "quai-thao": 0,
+      "khan-van": 0,
+      "khan-ran": 1,
+      "tui-deo-cheo": 0,
+      "kinh-mat": 0
+    },
+    "shoes": {
+      "guoc-moc": 1,
+      "sneaker": 1,
+      "giay-da": 0
+    }
+  },
+  "colorNotes": [
+    {
+      "key": "meaning",
+      "text": "Màu áo dài có thể thay đổi theo dịp, cá nhân và thiết kế; không nên gán một ý nghĩa cố định cho mọi màu.",
+      "sourceIds": ["src-vhnghe-thuat-ao-dai-2024"],
+      "status": "checked",
+      "contested": false
+    }
+  ],
+  "images": [],
+  "avatarSpecId": "ao-dai",
+  "status": "checked",
+  "updated": "2026-10-04"
+}
