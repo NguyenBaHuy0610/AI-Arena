@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "ao-the",
+  "name": {
+    "vi": "Áo the",
+    "aliases": []
+  },
+  "category": "truyen-thong",
+  "regions": ["bac-bo"],
+  "period": {
+    "label": "Gắn với hình ảnh nam giới Bắc Bộ trong xã hội truyền thống; niên đại và cấu tạo cần tiếp tục xác minh",
+    "from": null,
+    "to": null
+  },
+  "wearer": "nam",
+  "summary": "Áo the là trang phục nam thường được gắn với hình ảnh Bắc Bộ truyền thống. Dữ liệu về cấu tạo, chất liệu, thời kỳ và phạm vi sử dụng hiện chưa đủ chắc để mô tả như một kết luận lịch sử.",
+  "claims": [
+    {
+      "key": "origin",
+      "text": "Áo the thường được nhắc cùng trang phục nam Bắc Bộ, nhưng nguồn gốc và mốc xuất hiện cụ thể chưa được xác minh bằng nguồn A trong bộ dữ liệu hiện tại.",
+      "sourceIds": ["src-vhnghe-thuat-thuat-ngu-thoi-trang"],
+      "status": "draft",
+      "contested": false,
+      "note": "Cần bổ sung sách chuyên khảo, hiện vật hoặc hồ sơ bảo tàng."
+    },
+    {
+      "key": "structure",
+      "text": "Cấu tạo chuẩn của áo the theo từng thời kỳ, gồm cổ, thân, tay, chất liệu và cách cài, chưa được xác minh đầy đủ.",
+      "sourceIds": ["src-vhnghe-thuat-thuat-ngu-thoi-trang"],
+      "status": "draft",
+      "contested": false,
+      "note": "Không hiển thị chi tiết kỹ thuật cho đến khi có nguồn tốt hơn."
+    },
+    {
+      "key": "usage",
+      "text": "Một số nguồn báo chí và văn hóa gắn áo the với nam giới trong trang phục truyền thống Bắc Bộ; tầng lớp và dịp mặc cụ thể chưa đủ dữ liệu.",
+      "sourceIds": ["src-vhnghe-thuat-thuat-ngu-thoi-trang"],
+      "status": "draft",
+      "contested": false
+    },
+    {
+      "key": "meaning",
+      "text": "Trong nhận diện phổ biến, áo the gợi hình ảnh nam giới Bắc Bộ và phong cách truyền thống; đây là mô tả nhận diện, không phải kết luận về mọi giai đoạn lịch sử.",
+      "sourceIds": ["src-vhnghe-thuat-thuat-ngu-thoi-trang"],
+      "status": "draft",
+      "contested": false
+    },
+    {
+      "key": "caution",
+      "text": "Không nên dùng áo the làm dữ liệu lịch sử đã xác nhận cho đến khi nhóm bổ sung nguồn bảo tàng hoặc nghiên cứu chuyên khảo.",
+      "sourceIds": [],
+      "status": "draft",
+      "contested": false,
+      "note": "Nhận định nội bộ; cần nguồn trước khi hiển thị."
+    }
+  ],
+  "contextFit": {
+    "tet": 1,
+    "tot-nghiep": 0,
+    "ky-yeu": 1,
+    "pho-co": 1,
+    "hoi-lang": 1
+  },
+  "parts": ["ao", "quan", "khan"],
+  "affinities": {
+    "accessories": {
+      "non-la": 0,
+      "quai-thao": 1,
+      "khan-van": 1,
+      "khan-ran": -1,
+      "tui-deo-cheo": 0,
+      "kinh-mat": -1
+    },
+    "shoes": {
+      "guoc-moc": 1,
+      "sneaker": 0,
+      "giay-da": 1
+    }
+  },
+  "colorNotes": [],
+  "images": [],
+  "avatarSpecId": "ao-the",
+  "status": "draft",
+  "updated": "2026-10-04"
+}
