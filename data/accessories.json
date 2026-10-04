@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 1,
+  "accessories": [
+    {
+      "id": "non-la",
+      "name": {
+        "vi": "Nón lá",
+        "aliases": []
+      },
+      "type": "non",
+      "regions": ["viet-phuc", "bac-bo", "hue-trung-bo", "nam-bo"],
+      "wearer": "chung",
+      "claims": [
+        {
+          "key": "usage",
+          "text": "Nón lá được sử dụng rộng rãi trong nhiều vùng và thường xuất hiện cùng áo dài, áo bà ba hoặc trang phục dân gian.",
+          "sourceIds": ["src-scov-ao-ba-ba-2019", "src-bao-tang-ao-dai"],
+          "status": "checked",
+          "contested": false
+        },
+        {
+          "key": "meaning",
+          "text": "Trong hình ảnh văn hóa đương đại, nón lá thường gợi liên tưởng đến đời sống Việt Nam và hoạt động ngoài trời.",
+          "sourceIds": ["src-scov-ao-ba-ba-2019"],
+          "status": "checked",
+          "contested": false
+        },
+        {
+          "key": "caution",
+          "text": "Nón lá có nhiều dạng địa phương và công năng; không nên coi mọi nón hình chóp là cùng một mẫu lịch sử.",
+          "sourceIds": ["src-scov-ao-ba-ba-2019"],
+          "status": "draft",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "quai-thao",
+      "name": {
+        "vi": "Nón quai thao",
+        "aliases": ["Nón ba tầm"]
+      },
+      "type": "non",
+      "regions": ["bac-bo"],
+      "wearer": "nu",
+      "claims": [
+        {
+          "key": "usage",
+          "text": "Nón quai thao thường được gắn với hình ảnh phụ nữ và sinh hoạt văn hóa dân gian Bắc Bộ.",
+          "sourceIds": ["src-ttxvn-tuan-le-ao-dai", "src-vhnghe-thuat-thuat-ngu-thoi-trang"],
+          "status": "checked",
+          "contested": false
+        },
+        {
+          "key": "structure",
+          "text": "Nón có vành rộng và quai đeo; hình thức cụ thể cần được đối chiếu theo từng loại và địa phương.",
+          "sourceIds": ["src-vhnghe-thuat-thuat-ngu-trang"],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "caution",
+          "text": "Nón quai thao không nên mặc định phối với mọi trang phục Việt; nên ưu tiên áo tứ thân hoặc bối cảnh Bắc Bộ.",
+          "sourceIds": ["src-ttxvn-tuan-le-ao-dai"],
+          "status": "checked",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "khan-van",
+      "name": {
+        "vi": "Khăn vấn",
+        "aliases": ["Khăn đóng"]
+      },
+      "type": "khan",
+      "regions": ["bac-bo", "hue-trung-bo", "viet-phuc"],
+      "wearer": "chung",
+      "claims": [
+        {
+          "key": "usage",
+          "text": "Khăn vấn hoặc khăn đóng thường được dùng trong các phối hợp cổ phục và bối cảnh trang trọng; tên gọi và cách vấn có thể khác theo vùng.",
+          "sourceIds": ["src-vhnghe-thuat-gen-z-co-phuc"],
+          "status": "draft",
+          "contested": true,
+          "attribution": "Thuật ngữ hiện đại có thể dùng chồng lấn giữa các kiểu khăn."
+        },
+        {
+          "key": "caution",
+          "text": "Cần phân biệt khăn vấn, khăn đóng và các dạng khăn đội đầu khác trước khi gắn với một triều đại cụ thể.",
+          "sourceIds": ["src-vhnghe-thuat-gen-z-co-phuc"],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "meaning",
+          "text": "Trong app, khăn vấn nên được dùng như phụ kiện phục dựng hoặc cách tân có chú thích bối cảnh.",
+          "sourceIds": ["src-vhnghe-thuat-gen-z-co-phuc"],
+          "status": "draft",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "khan-ran",
+      "name": {
+        "vi": "Khăn rằn",
+        "aliases": []
+      },
+      "type": "khan",
+      "regions": ["nam-bo"],
+      "wearer": "chung",
+      "claims": [
+        {
+          "key": "usage",
+          "text": "Khăn rằn thường được gắn với đời sống Nam Bộ và thường xuất hiện cùng áo bà ba, nón lá.",
+          "sourceIds": ["src-scov-ao-ba-ba-2019", "src-scov-ao-ba-ba-2018"],
+          "status": "checked",
+          "contested": false
+        },
+        {
+          "key": "meaning",
+          "text": "Khăn rằn là một dấu hiệu nhận diện phổ biến của hình ảnh miền Tây và đời sống sông nước Nam Bộ.",
+          "sourceIds": ["src-scov-ao-ba-ba-2018"],
+          "status": "checked",
+          "contested": false
+        },
+        {
+          "key": "caution",
+          "text": "Không nên xem khăn rằn là phụ kiện bắt buộc của mọi người Nam Bộ hoặc mọi áo bà ba.",
+          "sourceIds": ["src-scov-ao-ba-ba-2018"],
+          "status": "checked",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "tui-deo-cheo",
+      "name": {
+        "vi": "Túi đeo chéo",
+        "aliases": []
+      },
+      "type": "tui",
+      "regions": [],
+      "wearer": "chung",
+      "claims": [
+        {
+          "key": "usage",
+          "text": "Túi đeo chéo là phụ kiện hiện đại, có thể dùng trong phối cách tân khi không làm che hoặc biến dạng cấu trúc trang phục chính.",
+          "sourceIds": [],
+          "status": "draft",
+          "contested": false,
+          "note": "Đây là gợi ý thiết kế, không phải nhận định lịch sử."
+        },
+        {
+          "key": "caution",
+          "text": "Không nên dùng túi hiện đại trong bối cảnh được giới thiệu là phục dựng nghi lễ nguyên bản.",
+          "sourceIds": [],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "meaning",
+          "text": "Túi đeo chéo giúp phối trang phục truyền thống theo hướng tiện dụng cho đời sống Gen Z.",
+          "sourceIds": [],
+          "status": "draft",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "kinh-mat",
+      "name": {
+        "vi": "Kính mát",
+        "aliases": []
+      },
+      "type": "kinh",
+      "regions": [],
+      "wearer": "chung",
+      "claims": [
+        {
+          "key": "usage",
+          "text": "Kính mát chỉ nên dùng trong phối cách tân hoặc đời thường, không nên trình bày như phụ kiện lịch sử của cổ phục.",
+          "sourceIds": [],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "caution",
+          "text": "Kính mát có thể làm thay đổi sắc thái nghi lễ và nên được tắt trong chế độ phục dựng lịch sử.",
+          "sourceIds": [],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "meaning",
+          "text": "Kính mát đại diện cho lớp phối hiện đại, không phải ý nghĩa văn hóa truyền thống.",
+          "sourceIds": [],
+          "status": "draft",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "guoc-moc",
+      "name": {
+        "vi": "Guốc mộc",
+        "aliases": ["Guốc"]
+      },
+      "type": "giay",
+      "regions": ["viet-phuc", "bac-bo", "hue-trung-bo", "nam-bo"],
+      "wearer": "chung",
+      "claims": [
+        {
+          "key": "usage",
+          "text": "Guốc mộc thường được dùng trong phối áo dài, trang phục dân gian và các bộ phục dựng; kiểu guốc thay đổi theo thiết kế.",
+          "sourceIds": ["src-vhnghe-thuat-thuat-ngu-thoi-trang", "src-vhnghe-thuat-gen-z-co-phuc"],
+          "status": "checked",
+          "contested": false
+        },
+        {
+          "key": "meaning",
+          "text": "Guốc mộc tạo sắc thái truyền thống và giúp hoàn thiện dáng đứng trong các bộ cổ phục.",
+          "sourceIds": ["src-vhnghe-thuat-thuat-ngu-trang"],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "caution",
+          "text": "Cần cân nhắc độ an toàn và tiện dụng khi dùng guốc trong thiết kế avatar hoặc hoạt động ngoài trời.",
+          "sourceIds": [],
+          "status": "draft",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "sneaker",
+      "name": {
+        "vi": "Sneaker",
+        "aliases": ["Giày thể thao"]
+      },
+      "type": "giay",
+      "regions": [],
+      "wearer": "chung",
+      "claims": [
+        {
+          "key": "usage",
+          "text": "Sneaker là lựa chọn cách tân cho phối đời thường, học đường hoặc du lịch; không phải phụ kiện lịch sử.",
+          "sourceIds": [],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "caution",
+          "text": "Nên tách chế độ phối sneaker hiện đại khỏi chế độ phục dựng nghi lễ.",
+          "sourceIds": [],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "meaning",
+          "text": "Sneaker tạo kết nối với phong cách Gen Z và ưu tiên sự tiện dụng.",
+          "sourceIds": [],
+          "status": "draft",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "giay-da",
+      "name": {
+        "vi": "Giày da",
+        "aliases": []
+      },
+      "type": "giay",
+      "regions": [],
+      "wearer": "chung",
+      "claims": [
+        {
+          "key": "usage",
+          "text": "Giày da có thể dùng trong phối thanh lịch hoặc hiện đại; mức độ phù hợp phụ thuộc từng trang phục và bối cảnh.",
+          "sourceIds": [],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "caution",
+          "text": "Không nên dùng giày da hiện đại để khẳng định tính xác thực lịch sử của một bộ phục dựng.",
+          "sourceIds": [],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "meaning",
+          "text": "Giày da tạo sắc thái thanh lịch, phù hợp các phối hiện đại hơn là bối cảnh dân gian nguyên bản.",
+          "sourceIds": [],
+          "status": "draft",
+          "contested": false
+        }
+      ]
+    }
+  ]
+}
