@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "avatarSpecs": [
+    {
+      "id": "ao-dai",
+      "hemY": 0.88,
+      "hemRadius": 0.02,
+      "sleeveRadius": 0.08,
+      "slit": true,
+      "collar": "stand",
+      "trim": true,
+      "extras": ["quan"]
+    },
+    {
+      "id": "ao-tu-than",
+      "hemY": 0.76,
+      "hemRadius": 0.04,
+      "sleeveRadius": 0.14,
+      "slit": false,
+      "collar": "cross",
+      "trim": false,
+      "extras": ["yem", "vay", "day_lung"]
+    },
+    {
+      "id": "ao-ngu-than",
+      "hemY": 0.82,
+      "hemRadius": 0.03,
+      "sleeveRadius": 0.09,
+      "slit": true,
+      "collar": "stand",
+      "trim": true,
+      "extras": ["quan", "khan"]
+    },
+    {
+      "id": "ao-ba-ba",
+      "hemY": 0.62,
+      "hemRadius": 0.03,
+      "sleeveRadius": 0.07,
+      "slit": true,
+      "collar": "stand",
+      "trim": false,
+      "extras": ["quan", "tui"]
+    },
+    {
+      "id": "ao-giao-linh",
+      "hemY": 0.78,
+      "hemRadius": 0.04,
+      "sleeveRadius": 0.13,
+      "slit": false,
+      "collar": "cross",
+      "trim": true,
+      "extras": ["quan", "day_lung"]
+    },
+    {
+      "id": "ao-nhat-binh",
+      "hemY": 0.78,
+      "hemRadius": 0.04,
+      "sleeveRadius": 0.12,
+      "slit": false,
+      "collar": "square",
+      "trim": true,
+      "extras": ["quan", "khan", "day_buoc"]
+    },
+    {
+      "id": "ao-tac",
+      "hemY": 0.84,
+      "hemRadius": 0.04,
+      "sleeveRadius": 0.2,
+      "slit": false,
+      "collar": "stand",
+      "trim": true,
+      "extras": ["ao_lot", "quan", "khan"]
+    },
+    {
+      "id": "ao-the",
+      "hemY": 0.7,
+      "hemRadius": 0.03,
+      "sleeveRadius": 0.1,
+      "slit": false,
+      "collar": "stand",
+      "trim": false,
+      "extras": ["quan", "khan"]
+    },
+    {
+      "id": "ao-mo-ba-mo-bay",
+      "hemY": null,
+      "hemRadius": null,
+      "sleeveRadius": null,
+      "slit": null,
+      "collar": null,
+      "trim": null,
+      "extras": [],
+      "status": "draft",
+      "note": "Chưa có đủ dữ liệu hình học để tạo avatar."
+    }
+  ]
+}
