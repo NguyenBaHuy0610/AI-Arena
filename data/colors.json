@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "colors": [
+    {
+      "id": "do-son",
+      "name": {"vi": "Đỏ son", "aliases": ["Đỏ"]},
+      "hex": "#B3212B",
+      "temperature": "warm",
+      "claims": [
+        {
+          "key": "meaning",
+          "text": "Đỏ son thường được dùng trong phối lễ hội, Tết và cưới hỏi; ý nghĩa cụ thể thay đổi theo vùng, chất liệu và bối cảnh.",
+          "sourceIds": ["src-ttxvn-ao-dai"],
+          "status": "checked",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "xanh-cham",
+      "name": {"vi": "Xanh chàm", "aliases": ["Chàm"]},
+      "hex": "#274B6D",
+      "temperature": "cool",
+      "claims": [
+        {
+          "key": "meaning",
+          "text": "Xanh chàm tạo sắc thái trầm và cổ điển trong thiết kế; chưa nên gán một ý nghĩa duy nhất cho mọi trang phục hoặc cộng đồng.",
+          "sourceIds": [],
+          "status": "draft",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "nau-gu",
+      "name": {"vi": "Nâu gụ", "aliases": ["Nâu"]},
+      "hex": "#6F4528",
+      "temperature": "warm",
+      "claims": [
+        {
+          "key": "meaning",
+          "text": "Nâu gụ thường được dùng để tạo sắc thái dân dã, trầm và gần gũi trong phối áo tứ thân, áo the hoặc trang phục cách tân.",
+          "sourceIds": ["src-vhnghe-thuat-thuat-ngu-thoi-trang"],
+          "status": "draft",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "vang-nghe",
+      "name": {"vi": "Vàng nghệ", "aliases": ["Vàng đậm"]},
+      "hex": "#D99A16",
+      "temperature": "warm",
+      "claims": [
+        {
+          "key": "meaning",
+          "text": "Vàng nghệ tạo cảm giác ấm và nổi bật; trong ứng dụng nên ghi là lựa chọn thiết kế, không mặc định là màu cung đình.",
+          "sourceIds": [],
+          "status": "draft",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "vang-tuoi",
+      "name": {"vi": "Vàng tươi", "aliases": ["Vàng"]},
+      "hex": "#E0A526",
+      "temperature": "warm",
+      "claims": [
+        {
+          "key": "meaning",
+          "text": "Vàng tươi phù hợp phối lễ hội và sắc thái trang trọng, nhưng màu áo không tự nó xác định cấp bậc hay thân phận lịch sử.",
+          "sourceIds": ["src-baotanglichsu-cung-dinh-nguyen"],
+          "status": "draft",
+          "contested": true,
+          "attribution": "Ý nghĩa màu sắc thay đổi theo quy chế, chất liệu và bối cảnh cụ thể."
+        }
+      ]
+    },
+    {
+      "id": "trang-nga",
+      "name": {"vi": "Trắng ngà", "aliases": ["Trắng"]},
+      "hex": "#F5F0E6",
+      "temperature": "neutral",
+      "claims": [
+        {
+          "key": "meaning",
+          "text": "Trắng ngà tạo sắc thái nhẹ và thanh lịch, phù hợp áo dài, phối học đường và nhiều thiết kế hiện đại.",
+          "sourceIds": ["src-ttxvn-ao-dai"],
+          "status": "draft",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "xanh-ngoc",
+      "name": {"vi": "Xanh ngọc", "aliases": []},
+      "hex": "#2F7F6F",
+      "temperature": "cool",
+      "claims": [
+        {
+          "key": "meaning",
+          "text": "Xanh ngọc là lựa chọn màu hiện đại cho áo dài hoặc áo bà ba cách tân; không phải mã màu lịch sử cố định.",
+          "sourceIds": [],
+          "status": "draft",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "hong-dao",
+      "name": {"vi": "Hồng đào", "aliases": ["Hồng phấn"]},
+      "hex": "#E7A6A1",
+      "temperature": "warm",
+      "claims": [
+        {
+          "key": "meaning",
+          "text": "Hồng đào tạo cảm giác trẻ trung và mềm; nên dùng như lựa chọn thiết kế hiện đại thay vì gán ý nghĩa truyền thống cố định.",
+          "sourceIds": [],
+          "status": "draft",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "den",
+      "name": {"vi": "Đen", "aliases": []},
+      "hex": "#1B1B1B",
+      "temperature": "neutral",
+      "claims": [
+        {
+          "key": "usage",
+          "text": "Màu đen thường được nhắc đến trong mô tả áo bà ba lao động và trang phục Nam Bộ, nhưng không phải màu bắt buộc của mọi áo bà ba.",
+          "sourceIds": ["src-scov-ao-ba-ba-2019", "src-scov-ao-ba-ba-2018"],
+          "status": "checked",
+          "contested": false
+        }
+      ]
+    }
+  ]
+}
