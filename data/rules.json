@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "rules": [
+    {
+      "id": "quai-thao-voi-ao-tu-than",
+      "level": 0,
+      "delta": 5,
+      "when": {
+        "all": [
+          {"accessories": {"has": "quai-thao"}},
+          {"garment": {"in": ["ao-tu-than", "ao-the"]}},
+          {"region": {"in": ["bac-bo"]}}
+        ]
+      },
+      "message": "Nón quai thao phù hợp với bối cảnh Bắc Bộ và các phối áo tứ thân hoặc áo the.",
+      "sourceIds": ["src-ttxvn-tuan-le-ao-dai"],
+      "status": "checked"
+    },
+    {
+      "id": "quai-thao-sai-vung",
+      "level": 2,
+      "delta": -18,
+      "when": {
+        "all": [
+          {"accessories": {"has": "quai-thao"}},
+          {"garment": {"notIn": ["ao-tu-than", "ao-the", "ao-mo-ba-mo-bay"]}},
+          {"region": {"in": ["nam-bo", "hue-trung-bo"]}}
+        ]
+      },
+      "message": "Nón quai thao thường gắn với văn hóa Bắc Bộ; phối với trang phục và bối cảnh vùng khác có thể tạo cảm giác lệch vùng.",
+      "sourceIds": ["src-ttxvn-tuan-le-ao-dai"],
+      "status": "checked"
+    },
+    {
+      "id": "khan-ran-voi-ao-ba-ba",
+      "level": 0,
+      "delta": 5,
+      "when": {
+        "all": [
+          {"accessories": {"has": "khan-ran"}},
+          {"garment": {"in": ["ao-ba-ba"]}},
+          {"region": {"in": ["nam-bo"]}}
+        ]
+      },
+      "message": "Khăn rằn là lựa chọn phù hợp với áo bà ba và sắc thái Nam Bộ.",
+      "sourceIds": ["src-scov-ao-ba-ba-2019", "src-scov-ao-ba-ba-2018"],
+      "status": "checked"
+    },
+    {
+      "id": "ao-nhat-binh-phuc-dung",
+      "level": 1,
+      "delta": 0,
+      "when": {
+        "all": [
+          {"garment": {"in": ["ao-nhat-binh"]}},
+          {"style": {"in": ["truyen-thong", "retro"]}}
+        ]
+      },
+      "message": "Áo nhật bình nên được gắn nhãn phục dựng hoặc cách tân vì mẫu sử dụng trong ứng dụng không mặc định là nguyên bản cung đình.",
+      "sourceIds": ["src-baotanglichsu-cung-dinh-nguyen", "src-vhnghe-thuat-gen-z-co-phuc"],
+      "status": "checked"
+    },
+    {
+      "id": "ao-tac-voi-sneaker",
+      "level": 1,
+      "delta": -6,
+      "when": {
+        "all": [
+          {"garment": {"in": ["ao-tac"]}},
+          {"shoes": {"has": "sneaker"}},
+          {"context": {"in": ["ky-yeu", "pho-co"]}}
+        ]
+      },
+      "message": "Sneaker tạo lớp cách tân hiện đại; nếu dùng với áo tấc, nên ghi rõ đây là phối Gen Z thay vì phục dựng nghi lễ.",
+      "sourceIds": ["src-vhnghe-thuat-gen-z-co-phuc"],
+      "status": "checked"
+    },
+    {
+      "id": "ao-dai-hoc-duong",
+      "level": 0,
+      "delta": 5,
+      "when": {
+        "all": [
+          {"garment": {"in": ["ao-dai"]}},
+          {"context": {"in": ["tot-nghiep", "ky-yeu"]}},
+          {"shoes": {"in": ["guoc-moc", "sneaker"]}}
+        ]
+      },
+      "message": "Áo dài phù hợp bối cảnh học đường; guốc mộc tạo sắc thái truyền thống, còn sneaker tạo sắc thái cách tân.",
+      "sourceIds": ["src-ttxvn-ao-dai", "src-bao-tang-ao-dai"],
+      "status": "checked"
+    },
+    {
+      "id": "kinh-mat-phuc-dung",
+      "level": 1,
+      "delta": -8,
+      "when": {
+        "all": [
+          {"accessories": {"has": "kinh-mat"}},
+          {"style": {"in": ["truyen-thong"]}},
+          {"context": {"in": ["hoi-lang", "pho-co"]}}
+        ]
+      },
+      "message": "Kính mát là phụ kiện hiện đại; nên chuyển sang chế độ cách tân nếu muốn giữ cảm giác phục dựng.",
+      "sourceIds": [],
+      "status": "draft"
+    },
+    {
+      "id": "ao-the-chua-xac-minh",
+      "level": 1,
+      "delta": 0,
+      "when": {
+        "all": [
+          {"garment": {"in": ["ao-the"]}}
+        ]
+      },
+      "message": "Dữ liệu áo the đang chờ bổ sung nguồn; không hiển thị như kết luận lịch sử đã xác nhận.",
+      "sourceIds": [],
+      "status": "draft"
+    },
+    {
+      "id": "mau-vang-khong-tu-dong-la-cung-dinh",
+      "level": 1,
+      "delta": 0,
+      "when": {
+        "all": [
+          {"topColor": {"in": ["vang-tuoi", "vang-nghe"]}},
+          {"garment": {"in": ["ao-dai", "ao-ngu-than", "ao-tac"]}}
+        ]
+      },
+      "message": "Màu vàng tạo sắc thái trang trọng nhưng không tự nó xác định địa vị cung đình hoặc cấp bậc lịch sử.",
+      "sourceIds": ["src-baotanglichsu-cung-dinh-nguyen"],
+      "status": "draft"
+    }
+  ]
+}
