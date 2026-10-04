@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "reviewLog": [
+    {
+      "targetId": "ao-dai",
+      "claimKey": "origin",
+      "reviewer": "Nhóm Việt phục Remix",
+      "date": "2026-10-04",
+      "result": "sua",
+      "comment": "Giữ trạng thái contested vì nguồn không hoàn toàn thống nhất về nguồn gốc và mốc hình thành áo dài."
+    },
+    {
+      "targetId": "ao-ngu-than",
+      "claimKey": "origin",
+      "reviewer": "Nhóm Việt phục Remix",
+      "date": "2026-10-04",
+      "result": "sua",
+      "comment": "Đã bổ sung nguồn Tạp chí Văn hóa Nghệ thuật và tách nhận định lịch sử khỏi diễn giải biểu tượng."
+    },
+    {
+      "targetId": "ao-ba-ba",
+      "claimKey": "origin",
+      "reviewer": "Nhóm Việt phục Remix",
+      "date": "2026-10-04",
+      "result": "sua",
+      "comment": "Giữ nhiều quan điểm về nguồn gốc áo bà ba; không trình bày giả thuyết Trương Vĩnh Ký như kết luận duy nhất."
+    },
+    {
+      "targetId": "ao-the",
+      "claimKey": "structure",
+      "reviewer": "Nhóm Việt phục Remix",
+      "date": "2026-10-04",
+      "result": "sua",
+      "comment": "Chuyển sang draft do chưa có nguồn A hoặc hai nguồn B độc lập về cấu tạo áo the."
+    },
+    {
+      "targetId": "ao-mo-ba-mo-bay",
+      "claimKey": null,
+      "reviewer": "Nhóm Việt phục Remix",
+      "date": "2026-10-04",
+      "result": "sua",
+      "comment": "Tạo tệp giữ chỗ theo danh sách mã chuẩn; chưa đưa thông tin chưa xác minh vào phần hiển thị."
+    }
+  ]
+}
