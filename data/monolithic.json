@@ -1,0 +1,1061 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-05",
+  "readme": "Gói JSON khởi tạo. Tất cả nhận định đang draft; cần C đối chiếu và nâng trạng thái theo quy định.",
+  "garments": [
+    {
+      "schemaVersion": 1,
+      "id": "ao-dai",
+      "name": {
+        "vi": "Áo dài",
+        "aliases": []
+      },
+      "category": "cach-tan",
+      "regions": [
+        "viet-phuc"
+      ],
+      "period": {
+        "label": "Thế kỷ XX đến nay"
+      },
+      "wearer": "nu",
+      "summary": "Áo dài hiện đại là dạng trang phục dài có hai tà, được sử dụng rộng rãi trong nhiều bối cảnh đương đại.",
+      "claims": [
+        {
+          "key": "origin",
+          "text": "Áo dài hiện đại hình thành qua quá trình biến đổi từ các dạng áo dài truyền thống.",
+          "sourceIds": [
+            "src-btlsq-net-dep-ao-dai"
+          ],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "structure",
+          "text": "Dạng áo dài hiện đại thường có hai tà trước và sau, mặc cùng quần.",
+          "sourceIds": [
+            "src-btlsq-net-dep-ao-dai"
+          ],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "usage",
+          "text": "Cần phân biệt áo dài hiện đại với áo dài ngũ thân và các bản phục dựng khi giới thiệu.",
+          "sourceIds": [
+            "src-btlsq-ao-dai-va-hoa"
+          ],
+          "status": "draft",
+          "contested": false
+        }
+      ],
+      "contextFit": {
+        "tet": 2,
+        "tot-nghiep": 2,
+        "ky-yeu": 2,
+        "pho-co": 2,
+        "hoi-lang": 1
+      },
+      "parts": [
+        "ao",
+        "quan"
+      ],
+      "affinities": {
+        "accessories": {},
+        "shoes": {}
+      },
+      "colorNotes": [],
+      "images": [],
+      "avatarSpecId": "ao-dai",
+      "fitProfileId": null,
+      "status": "draft",
+      "updated": "2026-10-05"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "ao-tu-than",
+      "name": {
+        "vi": "Áo tứ thân",
+        "aliases": []
+      },
+      "category": "viet-phuc-phuc-dung",
+      "regions": [
+        "bac-bo"
+      ],
+      "period": {
+        "label": "Thế kỷ XVII–XX"
+      },
+      "wearer": "nu",
+      "summary": "Áo tứ thân là hình ảnh gắn với trang phục phụ nữ Bắc Bộ và thường được phục dựng trong không gian dân gian, lễ hội.",
+      "claims": [
+        {
+          "key": "structure",
+          "text": "Áo tứ thân được nhận diện qua các thân hoặc tà áo dài phía trước và sau.",
+          "sourceIds": [
+            "src-btlsq-net-dep-ao-dai"
+          ],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "usage",
+          "text": "Hình ảnh áo tứ thân thường gắn với phụ nữ Bắc Bộ và bối cảnh văn hóa dân gian.",
+          "sourceIds": [
+            "src-btlsq-net-dep-ao-dai"
+          ],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "caution",
+          "text": "Nhiều bộ áo tứ thân hiện nay là phục dựng hoặc cách tân; cần nêu rõ phiên bản sử dụng.",
+          "sourceIds": [
+            "src-btlsq-ao-dai-va-hoa"
+          ],
+          "status": "draft",
+          "contested": false
+        }
+      ],
+      "contextFit": {
+        "tet": 2,
+        "tot-nghiep": 0,
+        "ky-yeu": 2,
+        "pho-co": 1,
+        "hoi-lang": 2
+      },
+      "parts": [
+        "ao",
+        "yem",
+        "vay",
+        "that-lung"
+      ],
+      "affinities": {
+        "accessories": {},
+        "shoes": {}
+      },
+      "colorNotes": [],
+      "images": [],
+      "avatarSpecId": "ao-tu-than",
+      "fitProfileId": null,
+      "status": "draft",
+      "updated": "2026-10-05"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "ao-ngu-than",
+      "name": {
+        "vi": "Áo ngũ thân",
+        "aliases": []
+      },
+      "category": "truyen-thong",
+      "regions": [
+        "viet-phuc"
+      ],
+      "period": {
+        "label": "Thế kỷ XVIII–XX"
+      },
+      "wearer": "chung",
+      "summary": "Áo ngũ thân là dạng áo dài truyền thống có cấu trúc năm thân, gắn với quá trình phục hưng Việt phục.",
+      "claims": [
+        {
+          "key": "structure",
+          "text": "Áo ngũ thân thường được mô tả có năm thân, cổ đứng và hàng khuy phía trước.",
+          "sourceIds": [
+            "src-vietnamplus-ngu-than"
+          ],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "usage",
+          "text": "Áo ngũ thân phát triển mạnh trong bối cảnh triều Nguyễn và hiện được phục dựng.",
+          "sourceIds": [
+            "src-vietnamplus-ngu-than",
+            "src-btlsq-y-phuc-nguyen"
+          ],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "meaning",
+          "text": "Cách lý giải biểu tượng của năm thân có nhiều phiên bản phổ biến; cần dẫn rõ nguồn khi hiển thị.",
+          "sourceIds": [
+            "src-vietnamplus-ngu-than"
+          ],
+          "status": "draft",
+          "contested": true,
+          "attribution": "các cách diễn giải phổ biến"
+        }
+      ],
+      "contextFit": {
+        "tet": 2,
+        "tot-nghiep": 1,
+        "ky-yeu": 2,
+        "pho-co": 1,
+        "hoi-lang": 2
+      },
+      "parts": [
+        "ao",
+        "quan"
+      ],
+      "affinities": {
+        "accessories": {},
+        "shoes": {}
+      },
+      "colorNotes": [],
+      "images": [],
+      "avatarSpecId": "ao-ngu-than",
+      "fitProfileId": null,
+      "status": "draft",
+      "updated": "2026-10-05"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "ao-ba-ba",
+      "name": {
+        "vi": "Áo bà ba",
+        "aliases": []
+      },
+      "category": "truyen-thong",
+      "regions": [
+        "nam-bo"
+      ],
+      "period": {
+        "label": "Thế kỷ XX đến nay"
+      },
+      "wearer": "chung",
+      "summary": "Áo bà ba là trang phục gắn với đời sống Nam Bộ, được đánh giá cao vì sự gọn gàng và thuận tiện.",
+      "claims": [
+        {
+          "key": "usage",
+          "text": "Áo bà ba gắn với đời sống và lao động ở Nam Bộ.",
+          "sourceIds": [
+            "src-vjol-ao-ba-ba"
+          ],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "structure",
+          "text": "Các biến thể áo bà ba thường có thân áo gọn, hàng nút trước và có thể có túi.",
+          "sourceIds": [
+            "src-vjol-ao-ba-ba"
+          ],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "origin",
+          "text": "Nguồn gốc chính xác của áo bà ba chưa có sự thống nhất trong các cách giải thích.",
+          "sourceIds": [
+            "src-vjol-ao-ba-ba"
+          ],
+          "status": "draft",
+          "contested": true,
+          "attribution": "các nghiên cứu về giao thoa trang phục khu vực"
+        }
+      ],
+      "contextFit": {
+        "tet": 1,
+        "tot-nghiep": 0,
+        "ky-yeu": 1,
+        "pho-co": 1,
+        "hoi-lang": 1
+      },
+      "parts": [
+        "ao",
+        "quan"
+      ],
+      "affinities": {
+        "accessories": {},
+        "shoes": {}
+      },
+      "colorNotes": [],
+      "images": [],
+      "avatarSpecId": "ao-ba-ba",
+      "fitProfileId": null,
+      "status": "draft",
+      "updated": "2026-10-05"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "ao-giao-linh",
+      "name": {
+        "vi": "Áo giao lĩnh",
+        "aliases": []
+      },
+      "category": "viet-phuc-phuc-dung",
+      "regions": [
+        "viet-phuc"
+      ],
+      "period": {
+        "label": "Trung đại"
+      },
+      "wearer": "chung",
+      "summary": "Áo giao lĩnh là dạng áo có hai vạt giao nhau ở phía trước, hiện chủ yếu xuất hiện dưới dạng phục dựng.",
+      "claims": [
+        {
+          "key": "structure",
+          "text": "Áo giao lĩnh có đặc điểm nhận diện là phần vạt hoặc cổ giao nhau theo đường chéo trước ngực.",
+          "sourceIds": [
+            "src-btlsq-ao-dai-va-hoa"
+          ],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "usage",
+          "text": "Trong ứng dụng, áo giao lĩnh nên được giới thiệu là phục dựng nếu không gắn với hiện vật hoặc niên đại cụ thể.",
+          "sourceIds": [
+            "src-btlsq-ao-dai-va-hoa"
+          ],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "caution",
+          "text": "Hướng vạt phủ cần được đối chiếu theo nguồn cho từng mẫu; chưa nên khẳng định một hướng chung.",
+          "sourceIds": [
+            "src-btlsq-ao-dai-va-hoa"
+          ],
+          "status": "draft",
+          "contested": true,
+          "attribution": "cần đối chiếu hiện vật hoặc nghiên cứu chuyên ngành"
+        }
+      ],
+      "contextFit": {
+        "tet": 1,
+        "tot-nghiep": 1,
+        "ky-yeu": 1,
+        "pho-co": 1,
+        "hoi-lang": 1
+      },
+      "parts": [
+        "ao",
+        "quan"
+      ],
+      "affinities": {
+        "accessories": {},
+        "shoes": {}
+      },
+      "colorNotes": [],
+      "images": [],
+      "avatarSpecId": "ao-giao-linh",
+      "fitProfileId": null,
+      "status": "draft",
+      "updated": "2026-10-05"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "ao-nhat-binh",
+      "name": {
+        "vi": "Áo Nhật Bình",
+        "aliases": []
+      },
+      "category": "viet-phuc-phuc-dung",
+      "regions": [
+        "hue-trung-bo",
+        "viet-phuc"
+      ],
+      "period": {
+        "label": "Triều Nguyễn"
+      },
+      "wearer": "nu",
+      "summary": "Áo Nhật Bình là trang phục cung đình triều Nguyễn, nhận diện bởi phần cổ bản lớn tạo hình chữ nhật trước ngực.",
+      "claims": [
+        {
+          "key": "structure",
+          "text": "Áo Nhật Bình có phần cổ bản lớn tạo hình chữ nhật ở phía trước.",
+          "sourceIds": [
+            "src-btlsq-cung-dinh-nguyen"
+          ],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "usage",
+          "text": "Áo Nhật Bình gắn với phụ nữ hoàng tộc và cung tần triều Nguyễn, không phải thường phục đại chúng.",
+          "sourceIds": [
+            "src-btlsq-cung-dinh-nguyen"
+          ],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "caution",
+          "text": "Các phiên bản sử dụng ngày nay phần lớn là phục dựng hoặc cách tân.",
+          "sourceIds": [
+            "src-btlsq-cung-dinh-nguyen"
+          ],
+          "status": "draft",
+          "contested": false
+        }
+      ],
+      "contextFit": {
+        "tet": 2,
+        "tot-nghiep": 1,
+        "ky-yeu": 2,
+        "pho-co": 0,
+        "hoi-lang": 1
+      },
+      "parts": [
+        "ao",
+        "quan"
+      ],
+      "affinities": {
+        "accessories": {},
+        "shoes": {}
+      },
+      "colorNotes": [],
+      "images": [],
+      "avatarSpecId": "ao-nhat-binh",
+      "fitProfileId": null,
+      "status": "draft",
+      "updated": "2026-10-05"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "ao-tac",
+      "name": {
+        "vi": "Áo tấc",
+        "aliases": []
+      },
+      "category": "viet-phuc-phuc-dung",
+      "regions": [
+        "hue-trung-bo",
+        "viet-phuc"
+      ],
+      "period": {
+        "label": "Triều Nguyễn"
+      },
+      "wearer": "chung",
+      "summary": "Áo tấc là tên gọi cần tiếp tục đối chiếu theo hiện vật và tài liệu về hệ thống lễ phục thời Nguyễn.",
+      "claims": [
+        {
+          "key": "usage",
+          "text": "Tư liệu về y phục thời Nguyễn có nhắc áo lễ và bổ phục may theo áo tấc.",
+          "sourceIds": [
+            "src-btlsq-y-phuc-nguyen"
+          ],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "structure",
+          "text": "Cấu trúc riêng của mã áo tấc trong dự án cần được chốt bằng nguồn chuyên khảo hoặc hiện vật.",
+          "sourceIds": [
+            "src-btlsq-y-phuc-nguyen"
+          ],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "caution",
+          "text": "Không nên mặc định áo tấc chỉ dành cho một giới, một màu hoặc một dịp khi chưa xác định phiên bản.",
+          "sourceIds": [
+            "src-btlsq-y-phuc-nguyen"
+          ],
+          "status": "draft",
+          "contested": false
+        }
+      ],
+      "contextFit": {
+        "tet": 1,
+        "tot-nghiep": 1,
+        "ky-yeu": 1,
+        "pho-co": 1,
+        "hoi-lang": 1
+      },
+      "parts": [
+        "ao",
+        "quan"
+      ],
+      "affinities": {
+        "accessories": {},
+        "shoes": {}
+      },
+      "colorNotes": [],
+      "images": [],
+      "avatarSpecId": "ao-tac",
+      "fitProfileId": null,
+      "status": "draft",
+      "updated": "2026-10-05"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "ao-the",
+      "name": {
+        "vi": "Áo the",
+        "aliases": []
+      },
+      "category": "viet-phuc-phuc-dung",
+      "regions": [
+        "bac-bo",
+        "viet-phuc"
+      ],
+      "period": {
+        "label": "Cận đại"
+      },
+      "wearer": "nam",
+      "summary": "Áo the là tên gọi cần được xác định rõ theo chất liệu, kiểu dáng và bối cảnh sử dụng trước khi công bố như một kiểu áo thống nhất.",
+      "claims": [
+        {
+          "key": "origin",
+          "text": "Tên gọi áo the có thể liên quan đến chất liệu the hoặc cách gọi một dạng áo nam; cần nguồn chuyên ngành để chốt định nghĩa.",
+          "sourceIds": [
+            "src-btlsq-y-phuc-nguyen"
+          ],
+          "status": "draft",
+          "contested": true,
+          "attribution": "cách gọi trong tư liệu và dân gian"
+        },
+        {
+          "key": "structure",
+          "text": "Chưa đủ nguồn để chuẩn hóa cấu trúc một mẫu áo the duy nhất cho ứng dụng.",
+          "sourceIds": [
+            "src-btlsq-y-phuc-nguyen"
+          ],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "caution",
+          "text": "Giữ dữ liệu ở trạng thái nháp cho đến khi xác định mẫu tham chiếu.",
+          "sourceIds": [
+            "src-btlsq-y-phuc-nguyen"
+          ],
+          "status": "draft",
+          "contested": false
+        }
+      ],
+      "contextFit": {
+        "tet": 1,
+        "tot-nghiep": 1,
+        "ky-yeu": 1,
+        "pho-co": 1,
+        "hoi-lang": 1
+      },
+      "parts": [
+        "ao",
+        "quan"
+      ],
+      "affinities": {
+        "accessories": {},
+        "shoes": {}
+      },
+      "colorNotes": [],
+      "images": [],
+      "avatarSpecId": "ao-the",
+      "fitProfileId": null,
+      "status": "draft",
+      "updated": "2026-10-05"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "ao-mo-ba-mo-bay",
+      "name": {
+        "vi": "Áo mớ ba mớ bảy",
+        "aliases": []
+      },
+      "category": "viet-phuc-phuc-dung",
+      "regions": [
+        "bac-bo"
+      ],
+      "period": {
+        "label": "Thế kỷ XVII–XX"
+      },
+      "wearer": "nu",
+      "summary": "Mớ ba mớ bảy là cách mặc nhiều lớp áo, gắn với hình ảnh trang phục phụ nữ Bắc Bộ hơn là một chiếc áo đơn.",
+      "claims": [
+        {
+          "key": "structure",
+          "text": "Mớ ba mớ bảy nên được mô hình hóa thành nhiều lớp áo thay vì một trang phục đơn.",
+          "sourceIds": [
+            "src-btlsq-mo-ba-mo-bay"
+          ],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "usage",
+          "text": "Tư liệu bảo tàng liên hệ cách mặc nhiều lớp với trang phục phụ nữ Việt trong các giai đoạn lịch sử.",
+          "sourceIds": [
+            "src-btlsq-mo-ba-mo-bay"
+          ],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "caution",
+          "text": "Con số ba hoặc bảy có thể là cách gọi văn hóa; số lớp thực tế cần đối chiếu theo mẫu cụ thể.",
+          "sourceIds": [
+            "src-btlsq-mo-ba-mo-bay"
+          ],
+          "status": "draft",
+          "contested": true,
+          "attribution": "cách gọi trong tư liệu và dân gian"
+        }
+      ],
+      "contextFit": {
+        "tet": 1,
+        "tot-nghiep": 0,
+        "ky-yeu": 2,
+        "pho-co": 1,
+        "hoi-lang": 2
+      },
+      "parts": [
+        "ao-lop",
+        "yem",
+        "vay",
+        "that-lung"
+      ],
+      "affinities": {
+        "accessories": {},
+        "shoes": {}
+      },
+      "colorNotes": [],
+      "images": [],
+      "avatarSpecId": "ao-mo-ba-mo-bay",
+      "fitProfileId": null,
+      "status": "draft",
+      "updated": "2026-10-05"
+    }
+  ],
+  "accessories": [
+    {
+      "id": "non-la",
+      "name": "Nón lá",
+      "type": "non",
+      "regions": [],
+      "wearer": "chung",
+      "claims": [
+        {
+          "key": "usage",
+          "text": "Nón lá có nhiều kiểu theo vùng và làng nghề, không nên gán cho riêng một vùng duy nhất.",
+          "sourceIds": [
+            "src-bt-pnnb-non-la"
+          ],
+          "status": "draft",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "quai-thao",
+      "name": "Nón quai thao",
+      "type": "non",
+      "regions": [
+        "bac-bo"
+      ],
+      "wearer": "nu",
+      "claims": [
+        {
+          "key": "usage",
+          "text": "Nón quai thao gắn với không gian văn hóa Bắc Bộ, đặc biệt trong bối cảnh lễ hội và Kinh Bắc.",
+          "sourceIds": [
+            "src-vnu-quai-thao"
+          ],
+          "status": "draft",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "khan-van",
+      "name": "Khăn vấn",
+      "type": "khan",
+      "regions": [],
+      "wearer": "chung",
+      "claims": [
+        {
+          "key": "caution",
+          "text": "Cần bổ sung nguồn xác định hình thức và bối cảnh sử dụng của từng kiểu khăn vấn.",
+          "sourceIds": [
+            "src-btlsq-ao-dai-va-hoa"
+          ],
+          "status": "draft",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "khan-ran",
+      "name": "Khăn rằn",
+      "type": "khan",
+      "regions": [
+        "nam-bo"
+      ],
+      "wearer": "chung",
+      "claims": [
+        {
+          "key": "usage",
+          "text": "Khăn rằn được sử dụng phổ biến trong đời sống của cư dân Đồng bằng sông Cửu Long.",
+          "sourceIds": [
+            "src-bktt-khan-ran"
+          ],
+          "status": "draft",
+          "contested": false
+        },
+        {
+          "key": "origin",
+          "text": "Khăn rằn thường được liên hệ với khăn Krama qua quá trình giao thoa văn hóa ở Nam Bộ.",
+          "sourceIds": [
+            "src-bktt-khan-ran"
+          ],
+          "status": "draft",
+          "contested": true,
+          "attribution": "các tài liệu về giao thoa Việt – Khmer"
+        }
+      ]
+    },
+    {
+      "id": "tui-deo-cheo",
+      "name": "Túi đeo chéo",
+      "type": "tui",
+      "regions": [],
+      "wearer": "chung",
+      "claims": [
+        {
+          "key": "caution",
+          "text": "Túi đeo chéo trong dự án được xem là phụ kiện hiện đại, không mặc định là phụ kiện truyền thống.",
+          "sourceIds": [
+            "src-btlsq-ao-dai-va-hoa"
+          ],
+          "status": "draft",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "kinh-mat",
+      "name": "Kính mắt",
+      "type": "kinh",
+      "regions": [],
+      "wearer": "chung",
+      "claims": [
+        {
+          "key": "caution",
+          "text": "Kính mắt là phụ kiện hiện đại; chỉ nên dùng như lựa chọn phối đồ đương đại.",
+          "sourceIds": [
+            "src-btlsq-ao-dai-va-hoa"
+          ],
+          "status": "draft",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "guoc-moc",
+      "name": "Guốc mộc",
+      "type": "giay",
+      "regions": [],
+      "wearer": "chung",
+      "claims": [
+        {
+          "key": "caution",
+          "text": "Cần bổ sung nguồn riêng về kiểu guốc và bối cảnh sử dụng trước khi đưa ra nhận định lịch sử.",
+          "sourceIds": [
+            "src-btlsq-y-phuc-nguyen"
+          ],
+          "status": "draft",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "sneaker",
+      "name": "Giày sneaker",
+      "type": "giay",
+      "regions": [],
+      "wearer": "chung",
+      "claims": [
+        {
+          "key": "caution",
+          "text": "Sneaker là giày hiện đại, phù hợp để thể hiện bản phối cách tân hoặc streetwear.",
+          "sourceIds": [
+            "src-btlsq-ao-dai-va-hoa"
+          ],
+          "status": "draft",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "giay-da",
+      "name": "Giày da",
+      "type": "giay",
+      "regions": [],
+      "wearer": "chung",
+      "claims": [
+        {
+          "key": "caution",
+          "text": "Giày da cần xác định kiểu cụ thể trước khi gán bối cảnh lịch sử.",
+          "sourceIds": [
+            "src-btlsq-y-phuc-nguyen"
+          ],
+          "status": "draft",
+          "contested": false
+        }
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": "do-son",
+      "name": "Đỏ son",
+      "hex": "#C62828",
+      "temperature": "warm",
+      "claims": []
+    },
+    {
+      "id": "xanh-cham",
+      "name": "Xanh chàm",
+      "hex": "#1E3A5F",
+      "temperature": "cool",
+      "claims": []
+    },
+    {
+      "id": "nau-gu",
+      "name": "Nâu gụ",
+      "hex": "#5B3924",
+      "temperature": "warm",
+      "claims": []
+    },
+    {
+      "id": "vang-nghe",
+      "name": "Vàng nghệ",
+      "hex": "#D99000",
+      "temperature": "warm",
+      "claims": []
+    },
+    {
+      "id": "vang-tuoi",
+      "name": "Vàng tươi",
+      "hex": "#F4C300",
+      "temperature": "warm",
+      "claims": []
+    },
+    {
+      "id": "trang-nga",
+      "name": "Trắng ngà",
+      "hex": "#F7F0DF",
+      "temperature": "neutral",
+      "claims": []
+    },
+    {
+      "id": "xanh-ngoc",
+      "name": "Xanh ngọc",
+      "hex": "#2A9D8F",
+      "temperature": "cool",
+      "claims": []
+    },
+    {
+      "id": "hong-dao",
+      "name": "Hồng đào",
+      "hex": "#F4A6A6",
+      "temperature": "warm",
+      "claims": []
+    },
+    {
+      "id": "den",
+      "name": "Đen",
+      "hex": "#1B1B1B",
+      "temperature": "neutral",
+      "claims": []
+    }
+  ],
+  "contexts": [
+    {
+      "id": "tet",
+      "name": "Tết",
+      "tip": "Ưu tiên bộ đồ phù hợp không khí lễ hội."
+    },
+    {
+      "id": "tot-nghiep",
+      "name": "Tốt nghiệp",
+      "tip": "Ưu tiên trang phục gọn và phù hợp quy định sự kiện."
+    },
+    {
+      "id": "ky-yeu",
+      "name": "Kỷ yếu",
+      "tip": "Ghi rõ nếu là bản phục dựng hoặc cách tân."
+    },
+    {
+      "id": "pho-co",
+      "name": "Phố cổ",
+      "tip": "Cân nhắc bối cảnh địa điểm và khả năng di chuyển."
+    },
+    {
+      "id": "hoi-lang",
+      "name": "Hội làng",
+      "tip": "Ưu tiên trang phục đúng bối cảnh vùng miền."
+    }
+  ],
+  "regions": [
+    {
+      "id": "bac-bo",
+      "name": "Bắc Bộ",
+      "garments": [
+        "ao-tu-than",
+        "ao-mo-ba-mo-bay",
+        "ao-the"
+      ]
+    },
+    {
+      "id": "hue-trung-bo",
+      "name": "Huế – Trung Bộ",
+      "garments": [
+        "ao-nhat-binh",
+        "ao-tac"
+      ]
+    },
+    {
+      "id": "nam-bo",
+      "name": "Nam Bộ",
+      "garments": [
+        "ao-ba-ba"
+      ]
+    },
+    {
+      "id": "viet-phuc",
+      "name": "Việt phục",
+      "garments": [
+        "ao-dai",
+        "ao-ngu-than",
+        "ao-giao-linh",
+        "ao-nhat-binh",
+        "ao-tac",
+        "ao-the"
+      ]
+    }
+  ],
+  "styles": [
+    {
+      "id": "truyen-thong",
+      "name": "Truyền thống"
+    },
+    {
+      "id": "retro",
+      "name": "Retro"
+    },
+    {
+      "id": "streetwear",
+      "name": "Streetwear"
+    },
+    {
+      "id": "thanh-lich",
+      "name": "Thanh lịch"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-btlsq-ao-dai-va-hoa",
+      "title": "Xuân Canh Tý: Áo dài và hoa",
+      "publisher": "Bảo tàng Lịch sử Quốc gia",
+      "url": "https://baotanglichsu.vn/vi/Articles/3091/71309/xuan-canh-ty-ao-dai-va-hoa.html",
+      "accessed": "2026-10-05",
+      "type": "hien-vat",
+      "reliability": "A",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-btlsq-net-dep-ao-dai",
+      "title": "Nét đẹp văn hóa trong tà áo dài của phụ nữ Việt",
+      "publisher": "Bảo tàng Lịch sử Quốc gia",
+      "url": "https://baotanglichsu.vn/vi/Articles/3096/18397/net-djep-van-hoa-trong-ta-ao-dai-cua-phu-nu-viet.html",
+      "accessed": "2026-10-05",
+      "type": "hien-vat",
+      "reliability": "A",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-btlsq-mo-ba-mo-bay",
+      "title": "Quần áo mớ bảy mớ ba thời xưa",
+      "publisher": "Bảo tàng Lịch sử Quốc gia",
+      "url": "https://baotanglichsu.vn/vi/Articles/2001/66131/quan-ao-mo-bay-mo-ba-thoi-xua.html",
+      "accessed": "2026-10-05",
+      "type": "hien-vat",
+      "reliability": "A",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-btlsq-cung-dinh-nguyen",
+      "title": "Trang phục cung đình triều Nguyễn",
+      "publisher": "Bảo tàng Lịch sử Quốc gia",
+      "url": "https://baotanglichsu.vn/vi/Articles/3096/18303/trang-phuc-cung-djinh-trieu-nguyen.html",
+      "accessed": "2026-10-05",
+      "type": "hien-vat",
+      "reliability": "A",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-btlsq-y-phuc-nguyen",
+      "title": "Y phục thời Nguyễn tại Bảo tàng Lịch sử quốc gia",
+      "publisher": "Bảo tàng Lịch sử Quốc gia",
+      "url": "https://baotanglichsu.vn/vi/Articles/3096/18741/y-phuc-thoi-nguyen-tai-bao-tang-lich-su-quoc-gia.html",
+      "accessed": "2026-10-05",
+      "type": "hien-vat",
+      "reliability": "A",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-vjol-ao-ba-ba",
+      "title": "Áo bà ba xưa và nay: Vẻ đẹp trường tồn của văn hoá trang phục",
+      "publisher": "Tạp chí Giáo dục Nghệ thuật / VJOL",
+      "url": "https://vjol.info.vn/tcgiaoducnghethuat/article/download/137388/112291/",
+      "accessed": "2026-10-05",
+      "type": "nghien-cuu",
+      "reliability": "A",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-bktt-khan-ran",
+      "title": "Khăn rằn",
+      "publisher": "Bách khoa Toàn thư Việt Nam",
+      "url": "https://bktt.vn/Kh%C4%83n_r%E1%BA%B1n",
+      "accessed": "2026-10-05",
+      "type": "nghien-cuu",
+      "reliability": "B",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-bt-pnnb-non-la",
+      "title": "Nghề chằm nón lá",
+      "publisher": "Bảo tàng Phụ nữ Nam Bộ",
+      "url": "https://baotangphunu.com/nghe-cham-non-la/",
+      "accessed": "2026-10-05",
+      "type": "hien-vat",
+      "reliability": "A",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-vnu-quai-thao",
+      "title": "Luận văn về văn hóa Kinh Bắc và nón quai thao",
+      "publisher": "Đại học Quốc gia Hà Nội",
+      "url": "https://repository.vnu.edu.vn/bitstream/VNU_123/10345/5/NGUY%E1%BB%84N%20TH%E1%BB%8B%20TH%C3%80NH%20-%20LU%E1%BA%ACN%20V%C4%82N.pdf",
+      "accessed": "2026-10-05",
+      "type": "nghien-cuu",
+      "reliability": "A",
+      "license": "chi-trich-dan"
+    },
+    {
+      "id": "src-vietnamplus-ngu-than",
+      "title": "Độc đáo áo ngũ thân - Bản sắc văn hoá Việt",
+      "publisher": "VietnamPlus",
+      "url": "https://mega.vietnamplus.vn/doc-dao-ao-ngu-than-ban-sac-van-hoa-viet-5419.html",
+      "accessed": "2026-10-05",
+      "type": "bao-chi",
+      "reliability": "B",
+      "license": "chi-trich-dan"
+    }
+  ],
+  "reviewLog": [],
+  "rules": [],
+  "dataQuality": {
+    "overallStatus": "draft",
+    "notes": [
+      "Chưa có ảnh hoặc credits.csv.",
+      "Chưa hoàn tất avatar-specs.json và fit-profiles.json.",
+      "Các mục áo tấc, áo the, khăn vấn, guốc mộc cần bổ sung nguồn chuyên ngành."
+    ]
+  }
+}
